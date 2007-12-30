@@ -1,0 +1,9 @@
+MIDlet-1: Meditação Adventista,,org.meditacaoadventista.mobile.Meditacao
+MIDlet-Icon: /icon.png
+MIDlet-Jar-Size: 12665
+MIDlet-Jar-URL: MeditacaoAdventista.jar
+MIDlet-Name: Meditação Adventista
+MIDlet-Vendor: http://code.google.com/p/meditacaoadventistamobile
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0

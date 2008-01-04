@@ -29,10 +29,11 @@ import java.util.Calendar;
  * @author eduveks
  */
 public class Meditacao extends MIDlet implements CommandListener {
-    public static String URL = "http://test.veks.net/";
+    public static String URL = "http://meditacaoadventistamobile.googlecode.com/svn/trunk/fs/";
     private final String RECORDSTORE_NAME = "MEDITACAOADVENTISTAMOBILE";
     private final int RECORDSTORE_ID_TEXTCONFIG = 1;
     private boolean midletPaused = false;
+    private String fixScrollContent = "";
 
     //<editor-fold defaultstate="collapsed" desc=" Generated Fields ">//GEN-BEGIN:|fields|0|
     private Form formPrincipal;
@@ -45,12 +46,12 @@ public class Meditacao extends MIDlet implements CommandListener {
     private StringItem stringItemFormPrincipalSpace1;
     private StringItem stringItemFormPrincipalAlert;
     private Form formHelp;
-    private StringItem stringItemFormHelp1;
-    private StringItem stringItemFormHelp2;
     private StringItem stringItemFormHelp3;
-    private StringItem stringItemFormHelp4;
-    private StringItem stringItemFormHelp5;
+    private StringItem stringItemFormHelp2;
+    private StringItem stringItemFormHelp1;
     private StringItem stringItemFormHelp6;
+    private StringItem stringItemFormHelp5;
+    private StringItem stringItemFormHelp4;
     private StringItem stringItemFormHelp7;
     private Form formView;
     private StringItem stringItemFormViewContent;
@@ -75,6 +76,9 @@ public class Meditacao extends MIDlet implements CommandListener {
             image = image.createImage("/logo.png");
         } catch (Exception e) {
             e.printStackTrace();
+        }
+        for (int x = 0; x < 500; x++) {
+            fixScrollContent += " \n";
         }
         getFormView();
     }
@@ -206,7 +210,7 @@ public class Meditacao extends MIDlet implements CommandListener {
                 stringItemFormViewVerse.setLabel("");
                 stringItemFormViewVerse.setText("");
                 stringItemFormViewContent.setLabel("");
-                stringItemFormViewContent.setText("");
+                stringItemFormViewContent.setText(fixScrollContent);
                 boolean textSpecial = choiceGroupFormPrincipalConfigText.getSelectedIndex() == 1 ? true : false;
                 java.io.InputStream is = null;
                 try {
@@ -264,6 +268,7 @@ public class Meditacao extends MIDlet implements CommandListener {
                         throw new Exception();
                     }
                 } catch (Exception e) {
+                    stringItemFormViewContent.setText("");
                     if (textSpecial) {
                         stringItemFormViewTitle.setText("N\u00E3o foi poss\u00EDvel carregar o conte\u00FAdo...");
                     } else {
@@ -276,6 +281,7 @@ public class Meditacao extends MIDlet implements CommandListener {
                         }
                     } catch (Exception ex) { }
                 }
+                this.
                 switchDisplayable(null, getFormView());//GEN-LINE:|7-commandAction|10|29-postAction
 
             }//GEN-BEGIN:|7-commandAction|11|32-preAction
@@ -686,6 +692,7 @@ choiceGroupFormPrincipalConfigText.setFont (1, null);//GEN-END:|43-getter|1|43-p
             // write pre-init user code here
             stringItemFormViewContent = new StringItem("", null);//GEN-LINE:|51-getter|1|51-postInit
             // write post-init user code here
+            stringItemFormViewContent.setText(fixScrollContent);
         }//GEN-BEGIN:|51-getter|2|
         return stringItemFormViewContent;
     }
@@ -854,30 +861,5 @@ choiceGroupFormPrincipalConfigText.setFont (1, null);//GEN-END:|43-getter|1|43-p
      * @param unconditional if true, then the MIDlet has to be unconditionally terminated and all resources has to be released.
      */
     public void destroyApp(boolean unconditional) {
-    }
-
-    public void loadAlertText()
-    {
-        java.io.InputStream is = null;
-        try {
-            is = javax.microedition.io.Connector.openDataInputStream(Meditacao.URL + "alert.txt");
-            StringBuffer sbuffer = new StringBuffer();
-            int b;
-            while ((b = is.read()) != -1) {
-                sbuffer.append((char)b);
-            }
-            String buffer = sbuffer.toString().trim();
-            if (buffer.indexOf("<1.0>") > -1 && buffer.indexOf("</1.0>") > -1) {
-                stringItemFormPrincipalAlert.setText(buffer.substring(buffer.indexOf("<1.0>") + 5, buffer.indexOf("</1.0>")));
-            }
-        } catch (Exception e) {
-            
-        } finally {
-            try {
-                if (is != null) {
-                    is.close();
-                }
-            } catch (Exception ex) { }
-        }
     }
 }

@@ -1,0 +1,17 @@
+#summary Equipe responsável pelo projeto.
+
+= Créditos =
+
+*_Coordenador_*
+
+Miguel Sabino
+
+*_Conteúdo_*
+
+Rui Coutinho
+
+Joel Alegria
+
+*_Desenvolvedor_*
+
+Eduardo Fonseca Velasques

@@ -32,11 +32,11 @@ Para ler uma meditação, no campo "*Dia, Mês e Ano*" coloque correnpondente ao
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot03.jpg]
 
-Após do *Ok* a meditação do dia preenchido aparecerá, para aparecer poderá demorar alguns segundos devido ao acesso de internet e depende da qualidade da conexão, para voltar clique em *Back* no canto inferior direito, ou para sair clique em *Exit* no canto inferior esquerdo, com as teclas de movimentação pode navegar no texto para cima e para baixo:
+Após o *Ok* a meditação do dia preenchido aparecerá, para aparecer poderá demorar alguns segundos devido ao acesso de internet e depende da qualidade da conexão, para voltar clique em *Back* no canto inferior direito, ou para sair clique em *Exit* no canto inferior esquerdo, com as teclas de movimentação pode navegar no texto para cima e para baixo:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot04.jpg]
 
-Para pesquisar nos títulos dos hinos, basta preencher o campo *Pesquisa em títulos*, em seguida clique em *Menu* e depois em *Ok*:
+Em alguns aparelhos o texto do hino pode aparecer com as estrofes em negrito e o coro e o título em texto normal sem negrito, para corrigir e ajustar para que o título e o coro apareçam em negrito em vez das estrofes, escolha a opção *Especial* na *Configuração do texto* no antes de abrir o hino para aparecer corretamente:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot05.jpg]
 
@@ -44,7 +44,7 @@ E aparecerá uma lista dos hinos que foram encontrados com o texto preenchido no
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot06.jpg]
 
-Em alguns aparelhos o texto do hino pode aparecer com as estrofes em negrito e o coro e o título em texto normal sem negrito, para corrigir e ajustar para que o título e o coro apareçam em negrito em vez das estrofes, escolha a opção *Especial* na *Configuração do texto* no antes de abrir o hino para aparecer corretamente:
+
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot07.jpg]
 

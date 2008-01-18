@@ -14,7 +14,7 @@ No menu principal do aparelho deverá ter um icone referente a *Serviço de Inte
 
 O endereço é:
 
-[http://hinarioadventistamobile.googlecode.com/files/HinarioAdventista-2.jar]
+[http://meditacaoadventistamobile.googlecode.com/files/MeditacaoAdventista-1.jar]
 
 Normalmente o arquivo *.jad* não é necessário, basta apenas o *.jar*, mas se for preciso, o endereço do arquivo .jad é o mesmo do .jar basta trocar no final o .jar para .jad.
 
@@ -24,15 +24,15 @@ Isto tem custos, depende da tarifa do tráfego de internet da operadora, normalm
 
 == Utilização ==
 
-Executando o *Hinário Adventista Mobile*:
+Executando a *Meditação Adventista Mobile*, é perguntado se a aplicação pode acessar a internet, deverá dizer que sim para poder fazer o download dos textos, este acesso não custará nem um centavo/cêntimo depende da tarifa de internet:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot01.jpg]
 
-Para abrir um hino, no campo "*Número do hino*" coloque o número do hino pretendido, em seguida clique em *Menu* e depois em *Ok*:
+Para ler uma meditação, no campo "*Dia, Mês e Ano*" coloque correnpondente ao dia pretendido, em seguida clique em *Menu* e depois em *Ok*:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot02.jpg]
 
-Após o *Ok* o hino aparecerá assim, para voltar clique em *Back* no canto inferior direito, ou para sair clique em *Exit* no canto inferior esquerdo, com as teclas de movimentação pode navegar no hino para cima e para baixo:
+Após do *Ok* a meditação do dia preenchido aparecerá, para aparecer poderá demorar alguns segundos devido ao acesso de internet e depende da qualidade da conexão, para voltar clique em *Back* no canto inferior direito, ou para sair clique em *Exit* no canto inferior esquerdo, com as teclas de movimentação pode navegar no texto para cima e para baixo:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot03.jpg]
 

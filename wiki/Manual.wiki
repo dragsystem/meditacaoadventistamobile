@@ -26,38 +26,38 @@ Isto tem custos, depende da tarifa do tráfego de internet da operadora, normalm
 
 Executando o *Hinário Adventista Mobile*:
 
-[http://hinarioadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot01.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot01.jpg]
 
 Para abrir um hino, no campo "*Número do hino*" coloque o número do hino pretendido, em seguida clique em *Menu* e depois em *Ok*:
 
-[http://hinarioadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot02.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot02.jpg]
 
 Após o *Ok* o hino aparecerá assim, para voltar clique em *Back* no canto inferior direito, ou para sair clique em *Exit* no canto inferior esquerdo, com as teclas de movimentação pode navegar no hino para cima e para baixo:
 
-[http://hinarioadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot03.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot03.jpg]
 
 Para pesquisar nos títulos dos hinos, basta preencher o campo *Pesquisa em títulos*, em seguida clique em *Menu* e depois em *Ok*:
 
-[http://hinarioadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot04.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot04.jpg]
 
 E aparecerá uma lista dos hinos que foram encontrados com o texto preenchido no título, para voltar clique em *Back* no canto inferior direito, ou para sair clique em *Exit* no canto inferior esquerdo, com as teclas de movimentação pode navegar no lista para cima e para baixo:
 
-[http://hinarioadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot05.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot05.jpg]
 
 Em alguns aparelhos o texto do hino pode aparecer com as estrofes em negrito e o coro e o título em texto normal sem negrito, para corrigir e ajustar para que o título e o coro apareçam em negrito em vez das estrofes, escolha a opção *Especial* na *Configuração do texto* no antes de abrir o hino para aparecer corretamente:
 
-[http://hinarioadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot06.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot06.jpg]
 
 Para ir na ajuda clique em *Menu* e depois em *Help*:
 
-[http://hinarioadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot07.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot07.jpg]
 
 Aparecerá a versão do programa, a descrição para que serve cada campo de preenchimento, e o site do projeto, com as teclas de movimentação pode navegar na ajuda para cima e para baixo:
 
-[http://hinarioadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot08.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot08.jpg]
 
 Mais em baixo encontrá os créditos, a licença de livre utilização e uma nota sobre o projeto:
 
-[http://hinarioadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot09.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot09.jpg]
 
 Os botões de navegação como *Exit* (sair), *Back* (voltar) e *Menu* (*Ok* e *Help* (ajuda)) estão sempre na parte inferior.

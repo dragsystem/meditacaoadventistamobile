@@ -36,7 +36,7 @@ Após o *Ok* a meditação do dia preenchido aparecerá, para aparecer poderá d
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot04.jpg]
 
-Em alguns aparelhos o texto da meditação pode aparecer com o texto em negrito e o título em texto normal sem negrito, para corrigir e ajustar para que o título apareça em negrito em vez do texto, escolha a opção *Especial* na *Configuração do texto* no antes de abrir o texto para aparecer corretamente:
+Em alguns aparelhos o texto da meditação pode aparecer com o texto em negrito e o título em texto normal sem negrito, para corrigir e ajustar para que o título apareça em negrito em vez do texto, escolha a opção *Especial* na *Configuração do texto* antes de abrir o texto, para aparecer corretamente de o *Ok* com a opção *Especial* marcada:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot05.jpg]
 

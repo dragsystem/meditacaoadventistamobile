@@ -40,24 +40,22 @@ Em alguns aparelhos o texto do hino pode aparecer com as estrofes em negrito e o
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot05.jpg]
 
-E aparecerá uma lista dos hinos que foram encontrados com o texto preenchido no título, para voltar clique em *Back* no canto inferior direito, ou para sair clique em *Exit* no canto inferior esquerdo, com as teclas de movimentação pode navegar no lista para cima e para baixo:
+Para ir na ajuda clique em *Menu* e depois em *Help*:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot06.jpg]
 
-
+Aparecerá a versão do programa, a descrição para que serve cada campo de preenchimento, e o site do projeto, com as teclas de movimentação pode navegar na ajuda para cima e para baixo:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot07.jpg]
 
-Para ir na ajuda clique em *Menu* e depois em *Help*:
-
-[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot08.jpg]
-
-Aparecerá a versão do programa, a descrição para que serve cada campo de preenchimento, e o site do projeto, com as teclas de movimentação pode navegar na ajuda para cima e para baixo:
-
-[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot08.jpg]
-
 Mais em baixo encontrá os créditos, a licença de livre utilização e uma nota sobre o projeto:
 
-[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot09.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot08.jpg]
 
 Os botões de navegação como *Exit* (sair), *Back* (voltar) e *Menu* (*Ok* e *Help* (ajuda)) estão sempre na parte inferior.
+
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot08.jpg]
+
+
+
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot09.jpg]

@@ -1,8 +1,7 @@
 <d>25 de março Terça-feira</d>
-
 <t>Sonhos, Recursos de Deus</t>
 <v>Sendo por divina advertência prevenidos em sonho para não voltarem à presença de Herodes, regressaram por outro caminho a sua terra. Mateus 2:12</v>
-
+<c>
 Como no passado, também hoje Deus tem usado sonhos para comunicar mensagens aos homens. Deus apareceu em sonho a Jacó, ao rei Nabucodonosor, e a Maria para dar-lhe a mensagem de que ela seria a mãe do Salvador. Esses são apenas alguns exemplos.
 
 Em nossos dias têm acontecido coisas maravilhosas em que, por meio de sonhos, Deus tem comunicado Sua vontade e indicado o Caminho para muitas pessoas sinceras.
@@ -19,4 +18,5 @@ E a procissão continuava seu trajeto quando, de repente, ela ouviu uma voz como 
 
 Acordou assustada. Não mais havia dúvidas. Decidiu-se pelo Caminho e preparou-se para o batismo. Satanás colocou diante dela muitos obstáculos tentando desanimá-la. Deus, porém, não a desamparou. Foi batizada. E isso já faz sessenta anos! Sessenta anos testemunhando a vizinhos e amigos sobre o amor de Deus e sobre o volta de Cristo à Terra. – EGS
 
-REFLEXÃO: "Vinde, ouvi, todos vós que temeis a Deus, e vos contarei o que tem Ele feito por minha alma" (Sl 66:16).</c>
+REFLEXÃO: "Vinde, ouvi, todos vós que temeis a Deus, e vos contarei o que tem Ele feito por minha alma" (Sl 66:16).
+</c>

@@ -55,17 +55,17 @@ extractor: func [year month url] [
 						lastByte1: #{00}
 						lastByte2: #{00}
 					] [
-						either (lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{9C}) [
+						either ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{9C})) or ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{9D})) [
 							lastByte1: #{00}
 							lastByte2: #{00}
 							lastByte3: #{00}
 							line: append (copy line) {"}
 						] [
-							either (lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{9D}) [
+							either (lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{93}) [
 								lastByte1: #{00}
 								lastByte2: #{00}
 								lastByte3: #{00}
-								line: append (copy line) {"}
+								line: append (copy line) {-}
 							] [
 								if lastByte1 <> #{00} [
 									line: append (copy line) lastByte1

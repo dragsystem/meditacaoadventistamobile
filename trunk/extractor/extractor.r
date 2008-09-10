@@ -117,7 +117,7 @@ extractor: func [year month url] [
 		results/sld/redrag results/lc / max 1 length? head results/lines
 		show results
 		results/text: rejoin [results/text filename newline]
-		write (to-file filename) content
+		write (to-file (rejoin ["build/" filename])) content
 	]
 ]
 
@@ -132,27 +132,30 @@ view layout [
 	
 	text bold black "Mês"
 	
-	month: field 50 (to-string now/month)
+	inputMonth: field 50 (to-string now/month)
 	
 	text bold black "Ano"
 	
-	year: field 100 (to-string now/year)
+	inputYear: field 100 (to-string now/year)
 	
 	style btn btn 130
 	
 	btn "Importar!" [
 		results/data: []
-		month: month/text
+		month: inputMonth/text
+		year: inputYear/text
 		if (to-integer month) < 10 [
 			month: rejoin ["0" (to-integer month)]
 		]
-		extractor year/text month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year/text "/md0110" month year/text ".html"])
-		extractor year/text month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year/text "/md1120" month year/text ".html"])
+		make-dir %build
+		extractor year month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year "/md0110" month year ".html"])
+		extractor year month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year "/md1120" month year ".html"])
 		if error? try [
-			extractor year/text month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year/text "/md2131" month year/text ".html"])
+			extractor year month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year "/md2131" month year ".html"])
 		] [
-			extractor year/text month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year/text "/md2130" month year/text ".html"])
+			extractor year month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year "/md2130" month year ".html"])
 		]
+		browse/only %build
 	]
 	
 	text bold black "Ficheiros Gerados"

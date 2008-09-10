@@ -141,7 +141,9 @@ view layout [
 	style btn btn 130
 	
 	btn "Importar!" [
-		results/data: []
+		clear results/data
+		results/sld/redrag results/lc / max 1 length? head results/lines
+		show results
 		month: inputMonth/text
 		year: inputYear/text
 		if (to-integer month) < 10 [

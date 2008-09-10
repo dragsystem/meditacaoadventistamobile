@@ -11,6 +11,7 @@ do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor
 do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor/lib/substr.r
 do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor/lib/htmlchars.r
 do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor/lib/htmltagextractor.r
+do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor/lib/utf2ansi.r
 
 extractor: func [year month url] [
 	fullContent: read (to-url url) 'latin-1
@@ -117,7 +118,7 @@ extractor: func [year month url] [
 		results/sld/redrag results/lc / max 1 length? head results/lines
 		show results
 		results/text: rejoin [results/text filename newline]
-		write (to-file (rejoin ["build/" filename])) content
+		write (to-file (rejoin ["build/" filename])) (utf2ansi content)
 	]
 ]
 

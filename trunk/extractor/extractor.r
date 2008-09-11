@@ -7,11 +7,11 @@ REBOL [
 	Purpose: "Converter automáticamente o conteúdo do site oficial para a Meditação Mobile"
 ]
 
-do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor/lib/split.r
-do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor/lib/substr.r
-do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor/lib/htmlchars.r
-do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor/lib/htmltagextractor.r
-do load-thru http://meditacaoadventistamobile.googlecode.com/svn/trunk/extractor/lib/utf2ansi.r
+do load-thru http://irebol.googlecode.com/files/split.r
+do load-thru http://irebol.googlecode.com/files/substr.r
+do load-thru http://irebol.googlecode.com/files/htmlchars.r
+do load-thru http://irebol.googlecode.com/files/htmltagextractor.r
+do load-thru http://irebol.googlecode.com/files/utf2ansi.r
 
 extractor: func [year month url] [
 	fullContent: read (to-url url) 'latin-1

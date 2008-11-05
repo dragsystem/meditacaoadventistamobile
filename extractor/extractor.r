@@ -54,7 +54,7 @@ extractor: func [year month url] [
 					lastByte1: lastByte2
 					lastByte2: lastByte3
 					lastByte3: to-binary char
-					; print (rejoin [char " - " (to-binary char)])
+					; prin (rejoin [char " - " (to-binary char)])
 					either (lastByte1 = #{C2}) and (lastByte2 = #{BA}) [
 						lastByte1: #{00}
 						lastByte2: #{00}
@@ -65,15 +65,22 @@ extractor: func [year month url] [
 							lastByte3: #{00}
 							line: append (copy line) {"}
 						] [
-							either (lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{93}) [
+							either ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{98})) or ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{99})) [
 								lastByte1: #{00}
 								lastByte2: #{00}
 								lastByte3: #{00}
-								line: append (copy line) {-}
+								line: append (copy line) {'}
 							] [
-								if lastByte1 <> #{00} [
-									line: append (copy line) lastByte1
+								either (lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{93}) [
 									lastByte1: #{00}
+									lastByte2: #{00}
+									lastByte3: #{00}
+									line: append (copy line) {-}
+								] [
+									if lastByte1 <> #{00} [
+										line: append (copy line) lastByte1
+										lastByte1: #{00}
+									]
 								]
 							]
 						]

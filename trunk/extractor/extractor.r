@@ -15,7 +15,11 @@ do load-thru http://irebol.googlecode.com/files/utf2ansi.r
 
 extractor: func [year month url] [
 	fullContent: read (to-url url) 'latin-1
-	fullContentStart: (index? find fullContent "<body>") + 6
+	fullContentStart: either error? try [(index? find fullContent "<body>") + 6] [
+			(index? find fullContent {<body bgcolor="#FFFFFF">}) + 24
+		] [
+			(index? find fullContent "<body>") + 6
+		]
 	fullContentEnd: (index? find fullContent "</body>") - fullContentStart
 	fullContent: substr fullContent fullContentStart fullContentEnd
 	contents: split fullContent (rejoin [newline "<hr />" newline])

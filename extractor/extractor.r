@@ -54,32 +54,37 @@ extractor: func [year month url] [
 					lastByte1: lastByte2
 					lastByte2: lastByte3
 					lastByte3: to-binary char
-					; prin (rejoin [char " - " (to-binary char)])
-					either (lastByte1 = #{C2}) and (lastByte2 = #{BA}) [
+					; print (rejoin [char " - " (to-binary char)])
+					either (lastByte1 = #{C2}) and (lastByte2 = #{B0}) [
 						lastByte1: #{00}
 						lastByte2: #{00}
 					] [
-						either ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{9C})) or ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{9D})) [
+						either (lastByte1 = #{C2}) and (lastByte2 = #{BA}) [
 							lastByte1: #{00}
 							lastByte2: #{00}
-							lastByte3: #{00}
-							line: append (copy line) {"}
 						] [
-							either ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{98})) or ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{99})) [
+							either ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{9C})) or ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{9D})) [
 								lastByte1: #{00}
 								lastByte2: #{00}
 								lastByte3: #{00}
-								line: append (copy line) {'}
+								line: append (copy line) {"}
 							] [
-								either (lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{93}) [
+								either ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{98})) or ((lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{99})) [
 									lastByte1: #{00}
 									lastByte2: #{00}
 									lastByte3: #{00}
-									line: append (copy line) {-}
+									line: append (copy line) {'}
 								] [
-									if lastByte1 <> #{00} [
-										line: append (copy line) lastByte1
+									either (lastByte1 = #{E2}) and (lastByte2 = #{80}) and (lastByte3 = #{93}) [
 										lastByte1: #{00}
+										lastByte2: #{00}
+										lastByte3: #{00}
+										line: append (copy line) {-}
+									] [
+										if lastByte1 <> #{00} [
+											line: append (copy line) lastByte1
+											lastByte1: #{00}
+										]
 									]
 								]
 							]
@@ -112,14 +117,16 @@ extractor: func [year month url] [
 				contentTagStart: "<t>"
 				contentTagEnd: "</t>"
 			]
-			if countLines = 3 [
+			if countLines = 4 [
 				contentTagStart: "<v>"
 				contentTagEnd: "</v>"
 			]
-			if countLines = 4 [
+			if countLines = 6 [
 				content: rejoin [content "<c>" newline]
 			]
-			content: rejoin [content contentTagStart line contentTagEnd newline]
+			if (countLines <> 3) and (countLines <> 5) [
+				content: rejoin [content contentTagStart line contentTagEnd newline]
+			]
 			if countLines = (length? lines) [
 				content: rejoin [content "</c>"]
 			]

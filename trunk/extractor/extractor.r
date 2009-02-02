@@ -174,7 +174,15 @@ view layout [
 		if error? try [
 			extractor year month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year "/md2131" month year ".html"])
 		] [
-			extractor year month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year "/md2130" month year ".html"])
+			if error? try [
+				extractor year month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year "/md2130" month year ".html"])
+			] [
+				if error? try [
+					extractor year month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year "/md2129" month year ".html"])
+				] [
+					extractor year month (rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmat/" year "/md2128" month year ".html"])
+				]
+			]
 		]
 		browse/only %build
 	]

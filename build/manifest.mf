@@ -1,7 +1,0 @@
-MIDlet-1: Meditação Adventista,,org.meditacaoadventista.mobile.Meditacao
-MIDlet-Vendor: http://code.google.com/p/meditacaoadventistamobile
-MIDlet-Name: Meditação Adventista
-MIDlet-Icon: /icon.png
-MIDlet-Version: 1.0
-MicroEdition-Configuration: CLDC-1.0
-MicroEdition-Profile: MIDP-1.0

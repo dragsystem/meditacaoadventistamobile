@@ -39,6 +39,7 @@ extractor: func [year month url] [
 		lines: split content newline
 		content: ""
 		day: "00"
+		bugLine: 0
 		for countLines 1 (length? lines) 1 [
 			contentTagStart: ""
 			contentTagEnd: ""
@@ -104,27 +105,32 @@ extractor: func [year month url] [
 			]
 			line: replace line "&nbsp;" ""
 			line: replace line "&quot;" ""
-			if countLines = 1 [
+			if countLines = (1 + bugLine) [
 				day: substr line 0 (index? find line " ")
 				day: trim day
-				if (to-integer day) < 10 [
-					day: rejoin ["0" day]
+				if error? try [
+					if (to-integer day) < 10 [
+						day: rejoin ["0" day]
+					]
+					content: ""
+					contentTagStart: "<d>"
+					contentTagEnd: "</d>"
+				] [
+					bugLine: bugline + 1
 				]
-				contentTagStart: "<d>"
-				contentTagEnd: "</d>"
 			]
-			if countLines = 2 [
+			if countLines = (2 + bugLine) [
 				contentTagStart: "<t>"
 				contentTagEnd: "</t>"
 			]
-			if countLines = 4 [
+			if countLines = (4 + bugLine) [
 				contentTagStart: "<v>"
 				contentTagEnd: "</v>"
 			]
-			if countLines = 6 [
+			if countLines = (6 + bugLine) [
 				content: rejoin [content "<c>" newline]
 			]
-			if (countLines <> 3) and (countLines <> 5) [
+			if (countLines <> (3 + bugLine)) and (countLines <> (5 + bugLine)) [
 				content: rejoin [content contentTagStart line contentTagEnd newline]
 			]
 			if countLines = (length? lines) [

@@ -1,4 +1,4 @@
-$('meditacao_day').value = new Date().getDay();
+$('meditacao_day').value = new Date().getDate();
 $('meditacao_month').value = new Date().getMonth() + 1;
 $('meditacao_year').value = new Date().getFullYear();
 var meditacao = {

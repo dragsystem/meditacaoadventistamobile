@@ -36,7 +36,8 @@
   / <input type="text" id="meditacao_year" value="" size="4" maxlength="4">
 </div>
 <div>
-<a href="#" onclick="meditacao.show();">Ler a medita&ccedil;&atilde;o...</a> &nbsp; <img id="meditacao_loader" src="ajax-loader.gif" style="visibility: hidden;"/>
+<a href="#" onclick="alert($('meditacao_content').contentDocument.body);">Ler a medita&ccedil;&atilde;o...</a> &nbsp; <img id="meditacao_loader" src="ajax-loader.gif" style="visibility: hidden;"/>
+meditacao.show();
 </div>
 </div>
 </div>
@@ -49,6 +50,7 @@
     <div id="meditacao_show_text">Texto...</div>
   </div>
 </div>
+<div><iframe id="meditacao_content" name="meditacao_content" src="http://meditacaoadventistamobile.googlecode.com/svn/trunk/fs/adulto/2009/20090307.txt" width="400" height="500"></iframe></div>
 <script src="meditacaoadventista.js" type="text/javascript"></script>
 </body>
 </html>

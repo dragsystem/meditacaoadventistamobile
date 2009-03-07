@@ -1,1 +1,2 @@
 <1.0>2009 disponível!</1.0>
+<2.0>Bem vindo a nova versão!</2.0>

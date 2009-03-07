@@ -1,0 +1,54 @@
+<html>
+<head>
+  <script src="prototype.js" type="text/javascript"></script>
+  <style>
+    #meditacao_box {
+      width: 200px; border: 1px solid #ccc;
+    }
+    #meditacao_box_title {
+      font-family: Tahoma,Arial,Helvetica; font-size: 14px; background-color: #ccc; padding: 5px; font-weight: bold;
+    }
+    #meditacao_box_content {
+      width: 200px; font-family: Tahoma,Arial,Helvetica; font-size: 12px; padding: 5px;
+    }
+    #meditacao_show {
+      position: absolute; z-index: 1000; width: 600px; border: 1px solid #ccc; margin-left: 300px;
+    }
+    #meditacao_show_header {
+      cursor: pointer; font-family: Tahoma,Arial,Helvetica; font-size: 14px; background-color: #ccc; padding: 5px; font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+<div id="meditacao_box">
+<div id="meditacao_box_title">Medita&ccedil;&atilde;o</div>
+<div id="meditacao_box_content">
+<div style="margin-bottom: 5px;">
+  <select id="meditacao_edition">
+    <option value="adulto">Adulto</option>
+    <option value="mulher">Mulher</option>
+    <option value="juvenil">Juvenil</option>
+  </select>
+</div>
+<div style="margin-bottom: 5px;">
+  <input type="text" id="meditacao_day" value="" size="2" maxlength="2">
+  / <input type="text" id="meditacao_month" value="" size="2" maxlength="2">
+  / <input type="text" id="meditacao_year" value="" size="4" maxlength="4">
+</div>
+<div>
+<a href="#" onclick="meditacao.show();">Ler a medita&ccedil;&atilde;o...</a> &nbsp; <img id="meditacao_loader" src="ajax-loader.gif" style="visibility: hidden;"/>
+</div>
+</div>
+</div>
+<div id="meditacao_show" style="visibility: hidden;">
+  <div id="meditacao_show_header" onclick="$('meditacao_show').style.visibility = 'hidden';"><div style="float: right;">X</div>Medita&ccedil;&atilde;o</div>
+  <div style="padding: 5px;">
+    <div id="meditacao_show_date">Data</div>
+    <div id="meditacao_show_title">Titulo</div>
+    <div id="meditacao_show_verso">Verso</div>
+    <div id="meditacao_show_text">Texto...</div>
+  </div>
+</div>
+<script src="meditacaoadventista.js" type="text/javascript"></script>
+</body>
+</html>

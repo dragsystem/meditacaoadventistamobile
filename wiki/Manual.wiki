@@ -14,7 +14,7 @@ No menu principal do aparelho deverá ter um icone referente a *Serviço de Inte
 
 O endereço é:
 
-[http://meditacaoadventistamobile.googlecode.com/files/MeditacaoAdventista-1.jar]
+[http://meditacaoadventistamobile.googlecode.com/files/meditacaoadventistamobile-2.jar]
 
 Normalmente o arquivo *.jad* não é necessário, basta apenas o *.jar*, mas se for preciso, o endereço do arquivo .jad é o mesmo do .jar basta trocar no final o .jar para .jad.
 
@@ -30,26 +30,20 @@ Executando a *Meditação Adventista Mobile*, é perguntado se a aplicação pod
 
 Para ler uma meditação, no campo "*Dia, Mês e Ano*" coloque correnpondente ao dia pretendido, em seguida clique em *Menu* e depois em *Ok*:
 
-[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot03.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacao2screenshot01.jpg]
 
-Após o *Ok* a meditação do dia preenchido aparecerá, para aparecer poderá demorar alguns segundos devido ao acesso de internet e depende da qualidade da conexão, para voltar clique em *Back* no canto inferior direito, ou para sair clique em *Exit* no canto inferior esquerdo, com as teclas de movimentação pode navegar no texto para cima e para baixo:
+Escolha o tipo de meditação que deseja ler, Adulto, Mulher ou Juvenil:
 
-[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot04.jpg]
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacao2screenshot02.jpg]
 
-Em alguns aparelhos o texto da meditação pode aparecer com o texto em negrito e o título em texto normal sem negrito, para corrigir e ajustar para que o título apareça em negrito em vez do texto, escolha a opção *Especial* na *Configuração do texto* antes de abrir o texto, para aparecer corretamente de o *Ok* com a opção *Especial* marcada:
+Em seguida precione em *Menu* e depois em *Ok*:
+
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacao2screenshot03.jpg]
+
+Após o *Ok* a meditação do dia preenchido aparecerá, para aparecer poderá demorar alguns segundos devido ao acesso de internet e depende da qualidade da conexão, para voltar clique em *Back* no canto inferior direito:
+
+[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacao2screenshot04.jpg]
+
+Com as teclas de movimentação ou o teclado numérico pode navegar no texto para a direita (tecla número *6*) e para a esquerda (tecla número *4*):
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot05.jpg]
-
-Para ir na ajuda clique em *Menu* e depois em *Help*:
-
-[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot06.jpg]
-
-Aparecerá a versão do programa, a descrição para que serve cada campo de preenchimento, e o site do projeto, com as teclas de movimentação pode navegar na ajuda para cima e para baixo:
-
-[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot07.jpg]
-
-Mais em baixo encontrá os créditos, a licença de livre utilização e uma nota sobre o projeto:
-
-[http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot08.jpg]
-
-Os botões de navegação como *Exit* (sair), *Back* (voltar) e *Menu* (*Ok* e *Help* (ajuda)) estão sempre na parte inferior.

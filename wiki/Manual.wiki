@@ -28,7 +28,7 @@ Executando a *Meditação Adventista Mobile*, é perguntado se a aplicação pod
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacaoscreenshot01.jpg]
 
-Para ler uma meditação, no campo "*Dia, Mês e Ano*" coloque correnpondente ao dia pretendido, em seguida clique em *Menu* e depois em *Ok*:
+Para ler uma meditação, no campo "*Dia, Mês e Ano*" coloque correnpondente ao dia pretendido (apartir do ano de 2008):
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacao2screenshot01.jpg]
 
@@ -36,11 +36,11 @@ Escolha o tipo de meditação que deseja ler, Adulto, Mulher ou Juvenil:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacao2screenshot02.jpg]
 
-Em seguida precione em *Menu* e depois em *Ok*:
+Em seguida pressione em *Menu* e depois em *Ok*:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacao2screenshot03.jpg]
 
-Após o *Ok* a meditação do dia preenchido aparecerá, para aparecer poderá demorar alguns segundos devido ao acesso de internet e depende da qualidade da conexão, para voltar clique em *Back* no canto inferior direito:
+Após o *Ok* a meditação do dia preenchido aparecerá, poderá demorar alguns segundos devido ao acesso de internet e depende da qualidade da conexão, para voltar clique em *Back* no canto inferior direito:
 
 [http://meditacaoadventistamobile.googlecode.com/svn/trunk/screenshots/meditacao2screenshot04.jpg]
 

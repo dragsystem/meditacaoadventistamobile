@@ -1,2 +1,2 @@
 <1.0>Esta versão não é mais suportada. Por favor atualize. Instale a versão mais recente disponível no web site oficial.</1.0>
-<2.0>Novembro de 2009 disponível.</2.0>
+<2.0>Dezembro de 2009 disponível.</2.0>

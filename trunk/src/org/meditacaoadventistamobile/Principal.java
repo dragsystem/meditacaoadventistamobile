@@ -36,7 +36,7 @@ public class Principal extends org.calango.Home {
     public static String URL_ADULTO = "adulto/";
     public static String URL_MULHER = "mulher/";
     public static String URL_JUVENIL = "juvenil/";
-    private final String RECORDSTORE_NAME = "MEDITACAOADVENTISTAMOBILE2";
+    private final String RECORDSTORE_NAME = "MEDITACAOADVENTISTAMOBILE2.1";
     private final int RECORDSTORE_ID_MEDITACAOTIPO = 1;
     private StringItem txtAlert;
     private TextField txtFieldDay;
@@ -73,8 +73,8 @@ public class Principal extends org.calango.Home {
                 sbuffer.append((char)b);
             }
             String buffer = sbuffer.toString().trim();
-            if (buffer.indexOf("<2.0>") > -1 && buffer.indexOf("</2.0>") > -1) {
-                txtAlert.setText(buffer.substring(buffer.indexOf("<2.0>") + 5, buffer.indexOf("</2.0>")));
+            if (buffer.indexOf("<2.1>") > -1 && buffer.indexOf("</2.1>") > -1) {
+                txtAlert.setText(buffer.substring(buffer.indexOf("<2.1>") + 5, buffer.indexOf("</2.1>")));
                 this.append(txtAlert);
             }
         } catch (Exception e) {
@@ -253,7 +253,7 @@ public class Principal extends org.calango.Home {
         try {
             int day = Integer.parseInt(txtFieldDay.getString());
             int month = Integer.parseInt(txtFieldMonth.getString());
-            if (day > 0 && day < 31 && month > 0 && month < 12 && txtFieldYear.getString().length() == 4) {
+            if (day > 0 && day <= 31 && month > 0 && month <= 12 && txtFieldYear.getString().length() == 4) {
                 new Thread() {
                     public void run() {
                         loadMeditacao();

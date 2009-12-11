@@ -38,7 +38,7 @@ public class Main extends Controller {
         principal = new Principal(this, "Medita\u00E7\u00E3o Adventista");
         org.calango.Help help = new Help(this, "Medita\u00E7\u00E3o Adventista", principal);
         principal.setHelp(help);
-        help.addContent("Medita\u00E7\u00E3o Adventista Mobile\n", "Vers\u00E3o 2.0\nCopyright \u00a9 2009\n");
+        help.addContent("Medita\u00E7\u00E3o Adventista Mobile\n", "Vers\u00E3o 2.1\nCopyright \u00a9 2009\n");
         help.addContent("\nWebsite Oficial\n", "http://meditacaoadventistamobile.googlecode.com");
         help.addContent("\nDia, M\u00EAs e Ano:", "\nAutomaticamente ser\u00E1 preenchido a data atual, mas pode escolher a medita\u00E7\u00E3o de outro dia colocando a data pretendida e depois clique em \"Ok\" para ver o texto da medita\u00E7\u00E3o.");
         help.addContent("\nEdi\u00E7\u00E3o:\n", "Escolha qual a edi\u00E7\u00E3o da medita\u00E7\u00E3o que deseja ler: Adulto, Mulher ou Juvenil.");

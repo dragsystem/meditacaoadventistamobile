@@ -24,10 +24,10 @@ extractor: func [edition folder year month url] [
 	fullContent: substr fullContent fullContentStart fullContentEnd
 	contents: split fullContent (rejoin [newline "<hr />" newline])
 	count: 0
-        tituloLineNumber: 2
-        versoLineNumber: 4
-	contentLineNumber: 6
-        if edition = "mulher" [
+	tituloLineNumber: 2
+	versoLineNumber: 3
+	contentLineNumber: 4
+	if edition = "mulher" [
 		tituloLineNumber: 2
 		versoLineNumber: 3
 		contentLineNumber: 4
@@ -40,10 +40,14 @@ extractor: func [edition folder year month url] [
 	for countContents 1 ((length? contents) - 1) 1 [
 		content: pick contents countContents
 		count: count + 1
+		content: replace/all content newline ""
+		content: replace/all content "</p>" rejoin["</p>" newline]
+		content: replace/all content "</h2>" rejoin["</h2>" newline]
 		content: replace content (substr content (index? find content "<a name") ((index? find content "</a>") - (index? find content "<a name") + 4)) ""
 		content: html-tag-extractor content
 		content: html-chars-decode content
 		content: trim content
+		content: replace/all content "   " " "
 		content: replace/all content "  " " "
 		content: replace/all content (rejoin [newline newline]) newline
 		if (trim content) = "" [
@@ -119,6 +123,9 @@ extractor: func [edition folder year month url] [
 			line: replace line "&nbsp;" ""
 			line: replace line "&quot;" ""
 			if countLines = (1 + bugLine) [
+				if not none? (find line ", ") [
+					line: substr line (index? find line ", ") + 2 (length? line)
+				]
 				day: substr line 0 (index? find line " ")
 				day: trim day
 				if error? try [

@@ -15,14 +15,10 @@ do load-thru http://irebol.googlecode.com/files/utf2ansi.r
 
 extractor: func [edition folder year month url] [
 	fullContent: read (to-url url) 'latin-1
-	fullContentStart: either error? try [(index? find fullContent "<body>") + 6] [
-			(index? find fullContent {<body bgcolor="#FFFFFF">}) + 24
-		] [
-			(index? find fullContent "<body>") + 6
-		]
-	fullContentEnd: (index? find fullContent "</body>") - fullContentStart
+	fullContentStart: (index? find fullContent {<div id="conteudo">}) + 19
+	fullContentEnd: (index? find fullContent {<p style="font-size: 18px">&nbsp;</p>}) - fullContentStart
 	fullContent: substr fullContent fullContentStart fullContentEnd
-	contents: split fullContent (rejoin [newline "<hr />" newline])
+	contents: split fullContent {<hr width="735" />}
 	count: 0
 	tituloLineNumber: 2
 	versoLineNumber: 3
@@ -37,7 +33,7 @@ extractor: func [edition folder year month url] [
 		versoLineNumber: 3
 		contentLineNumber: 4
 	]
-	for countContents 1 ((length? contents) - 1) 1 [
+	for countContents 1 (length? contents) 1 [
 		content: pick contents countContents
 		count: count + 1
 		content: replace/all content newline ""
@@ -174,29 +170,30 @@ extractor_starter: func [edition code year month url] [
 	make-dir (to-file "build")
 	make-dir (to-file (rejoin ["build/" edition]))
 	make-dir (to-file (rejoin ["build/" edition "/" year]))
-	if error? try [
-		extractor edition folder year month (rejoin [url year "/" code "0110" month year ".html"])
-	] [
-		extractor edition folder year month (rejoin [url year "/" code "0110" month year " .html"])
-	]
-	if error? try [
-		extractor edition folder year month (rejoin [url year "/" code "1120" month year ".html"])
-	] [
-		extractor edition folder year month (rejoin [url year "/" code "1120" month year " .html"])
-	]
-	if error? try [
-		extractor edition folder year month (rejoin [url year "/" code "2131" month year ".html"])
-	] [
-		if error? try [
-			extractor edition folder year month (rejoin [url year "/" code "2130" month year ".html"])
-		] [
-			if error? try [
-				extractor edition folder year month (rejoin [url year "/" code "2129" month year ".html"])
-			] [
-				extractor edition folder year month (rejoin [url year "/" code "2128" month year ".html"])
-			]
-		]
-	]
+	extractor edition folder year month (rejoin [url year "/" code year ".html"])
+;	if error? try [
+;		extractor edition folder year month (rejoin [url year "/" code "0110" month year ".html"])
+;	] [
+;		extractor edition folder year month (rejoin [url year "/" code "0110" month year " .html"])
+;	]
+;	if error? try [
+;		extractor edition folder year month (rejoin [url year "/" code "1120" month year ".html"])
+;	] [
+;		extractor edition folder year month (rejoin [url year "/" code "1120" month year " .html"])
+;	]
+;	if error? try [
+;		extractor edition folder year month (rejoin [url year "/" code "2131" month year ".html"])
+;	] [
+;		if error? try [
+;			extractor edition folder year month (rejoin [url year "/" code "2130" month year ".html"])
+;		] [
+;			if error? try [
+;				extractor edition folder year month (rejoin [url year "/" code "2129" month year ".html"])
+;			] [
+;				extractor edition folder year month (rejoin [url year "/" code "2128" month year ".html"])
+;			]
+;		]
+;	]
 ]
 
 view layout [
@@ -224,9 +221,9 @@ view layout [
 		show results
 		month: inputMonth/text
 		year: inputYear/text
-		extractor_starter "adulto" "md" year month "http://www.cpb.com.br/htdocs/periodicos/medmat/"
-		extractor_starter "mulher" "mmul" year month rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmulher/"]
-		extractor_starter "juvenil" "ij" year month rejoin ["http://www.cpb.com.br/htdocs/periodicos/ij/"]
+		extractor_starter "adulto" "frmd" year month "http://www.cpb.com.br/htdocs/periodicos/medmat/"
+;		extractor_starter "mulher" "mmul" year month rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmulher/"]
+;		extractor_starter "juvenil" "ij" year month rejoin ["http://www.cpb.com.br/htdocs/periodicos/ij/"]
 		browse/only %build
 	]
 	

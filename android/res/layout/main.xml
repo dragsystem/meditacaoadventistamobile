@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res/org.meditacaoadventista"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<ScrollView
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:app="http://schemas.android.com/apk/res/org.meditacaoadventista"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+		<ImageView android:src="@drawable/logo" android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content"
+		    android:paddingTop="10sp" />
+		<TextView android:id="@+id/alert"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content" 
+		    android:gravity="center_vertical|center_horizontal"
+		    android:textSize="16sp"
+		    android:text="@string/app_name"
+		    android:paddingLeft="5sp"
+		    android:paddingRight="5sp"
+		    android:paddingTop="10sp"
+		    android:paddingBottom="10sp"
+		    />
+		<com.admob.android.ads.AdView
+          android:id="@+id/ad" 
+          android:visibility="gone"
+          android:layout_width="fill_parent" 
+          android:layout_height="wrap_content"
+          android:layout_alignParentTop="true"
+          app:backgroundColor="#000000"
+          app:primaryTextColor="#FFFFFF"
+          app:secondaryTextColor="#CCCCCC"
+          app:keywords="Android game"/>
+		<DatePicker android:id="@+id/datePicker"
+			android:gravity="center_vertical|center_horizontal"
+			android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content"
+		    android:paddingTop="10sp"/>
+		<RadioGroup android:id="@+id/radioGroup"
+			android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content">
+			<RadioButton android:text="@string/mode_1" android:id="@+id/mode_1" android:checked="true" />
+			<RadioButton android:text="@string/mode_2" android:id="@+id/mode_2" />
+			<RadioButton android:text="@string/mode_3" android:id="@+id/mode_3" />
+		</RadioGroup>
+		<Button android:id="@+id/open"
+			android:gravity="center_vertical|center_horizontal"
+			android:layout_width="fill_parent" 
+		    android:layout_height="wrap_content"
+		    android:textSize="24sp"
+			android:text="@string/open"/>
+		<Button android:id="@+id/credit"
+			android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content"
+			android:gravity="center_vertical|center_horizontal"
+			android:textSize="18sp"
+			android:text="@string/credit"
+			android:paddingTop="10sp"
+			android:paddingBottom="10sp"/>
+	</LinearLayout>
+</ScrollView>
+</LinearLayout>

@@ -16,9 +16,17 @@ do load-thru http://irebol.googlecode.com/files/utf2ansi.r
 extractor: func [edition folder year month url] [
 	fullContent: read (to-url url) 'latin-1
 	fullContentStart: (index? find fullContent {<div id="conteudo">}) + 19
-	fullContentEnd: (index? find fullContent {<p style="font-size: 18px">&nbsp;</p>}) - fullContentStart
+	either not none? (find fullContent {<p style="font-size: 18px">&nbsp;</p>}) [
+		fullContentEnd: (index? find fullContent {<p style="font-size: 18px">&nbsp;</p>}) - fullContentStart
+	] [
+		fullContentEnd: (index? find fullContent {<div class="clear"></div>}) - fullContentStart
+	]
 	fullContent: substr fullContent fullContentStart fullContentEnd
-	contents: split fullContent {<hr width="735" />}
+	either not none? (find fullContent {<hr width="735" />}) [
+		contents: split fullContent {<hr width="735" />}
+	] [
+		contents: split fullContent {<hr width="730" />}
+	]
 	count: 0
 	tituloLineNumber: 2
 	versoLineNumber: 3
@@ -39,6 +47,12 @@ extractor: func [edition folder year month url] [
 		content: replace/all content newline ""
 		content: replace/all content "</p>" rejoin["</p>" newline]
 		content: replace/all content "</h2>" rejoin["</h2>" newline]
+		if (trim content) = "" [
+			break
+		]
+		if none? (find content "</a>") [
+			break
+		]
 		content: replace content (substr content (index? find content "<a name") ((index? find content "</a>") - (index? find content "<a name") + 4)) ""
 		content: html-tag-extractor content
 		content: html-chars-decode content
@@ -132,7 +146,19 @@ extractor: func [edition folder year month url] [
 					contentTagStart: "<d>"
 					contentTagEnd: "</d>"
 				] [
-					bugLine: bugline + 1
+					if error? try [
+						day: substr line ((index? find line " ") + 1) (length? line)
+						day: substr day 0 (index? find day " ")
+						day: trim day
+						if (to-integer day) < 10 [
+							day: rejoin ["0" day]
+						]
+						content: ""
+						contentTagStart: "<d>"
+						contentTagEnd: "</d>"
+					] [
+						bugLine: bugline + 1
+					]
 				]
 			]
 			if countLines = (tituloLineNumber + bugLine) [
@@ -222,8 +248,8 @@ view layout [
 		month: inputMonth/text
 		year: inputYear/text
 		extractor_starter "adulto" "frmd" year month "http://www.cpb.com.br/htdocs/periodicos/medmat/"
-;		extractor_starter "mulher" "mmul" year month rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmulher/"]
-;		extractor_starter "juvenil" "ij" year month rejoin ["http://www.cpb.com.br/htdocs/periodicos/ij/"]
+		extractor_starter "mulher" "frmmul" year month rejoin ["http://www.cpb.com.br/htdocs/periodicos/medmulher/"]
+		extractor_starter "juvenil" "frij" year month rejoin ["http://www.cpb.com.br/htdocs/periodicos/ij/"]
 		browse/only %build
 	]
 	

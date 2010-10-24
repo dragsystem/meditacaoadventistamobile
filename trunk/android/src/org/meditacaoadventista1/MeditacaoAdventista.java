@@ -1,11 +1,14 @@
-package org.meditacaoadventista;
+package org.meditacaoadventista1;
 
 import java.io.InputStream;
 import java.net.URL;
 import java.net.URLConnection;
 
+import org.meditacaoadventista1.R;
+
 import android.app.Activity;
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
@@ -22,13 +25,39 @@ public class MeditacaoAdventista extends Activity {
     public static String URL_ADULTO = "adulto/";
     public static String URL_MULHER = "mulher/";
     public static String URL_JUVENIL = "juvenil/";
+    private int currentLayout = 0;
+	private String detailData = "";
+	private String detailTitulo = "";
+	private String detailVerso = "";
+	private String detailConteudo = "";
 	
     @Override
     public void onCreate(Bundle savedInstanceState) {
     	//com.admob.android.ads.AdManager.setTestDevices(new String[] {com.admob.android.ads.AdManager.TEST_EMULATOR, "E83D20734F72FB3108F104ABC0FFC738",});
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        ((AdView)findViewById(R.id.ad)).setVisibility(AdView.VISIBLE);
+        currentLayout = R.layout.main;
+        loadMain();
+    }
+    
+    @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+    	super.onConfigurationChanged(newConfig);
+		setContentView(currentLayout);
+		if (currentLayout == R.layout.main) {
+			loadMain();
+		} else if (currentLayout == R.layout.detail) {
+    	  	((AdView)findViewById(R.id.ad)).setVisibility(AdView.VISIBLE);
+			((TextView)findViewById(R.id.d)).setText(detailData);
+			((TextView)findViewById(R.id.t)).setText(detailTitulo);
+			((TextView)findViewById(R.id.v)).setText(detailVerso);
+			((TextView)findViewById(R.id.c)).setText(detailConteudo);
+			loadDetailBack();
+		}
+    }
+    
+    public void loadMain() {
+    	((AdView)findViewById(R.id.ad)).setVisibility(AdView.VISIBLE);
         TextView alert = (TextView) findViewById(R.id.alert);
         InputStream is = null;        
         try {
@@ -141,7 +170,10 @@ public class MeditacaoAdventista extends Activity {
                         }
                 	}
                 }
+                meditacaoConteudo = "    ".concat(meditacaoConteudo.replace("\n", "\n    "));
                 setContentView(R.layout.detail);
+                currentLayout = R.layout.detail;
+                loadDetailBack();
                 ((AdView)findViewById(R.id.ad)).setVisibility(AdView.VISIBLE);
             	TextView d = (TextView)findViewById(R.id.d);
             	TextView t = (TextView)findViewById(R.id.t);
@@ -150,7 +182,11 @@ public class MeditacaoAdventista extends Activity {
             	d.setText(meditacaoData);
             	t.setText(meditacaoTitulo);
             	v.setText(meditacaoVerso);
-            	c.setText("    ".concat(meditacaoConteudo.replace("\n", "\n    ")));
+            	c.setText(meditacaoConteudo);
+            	detailData = meditacaoData;
+            	detailTitulo = meditacaoTitulo;
+            	detailVerso = meditacaoVerso;
+            	detailConteudo = meditacaoConteudo;
             }
         });
         Button credit = (Button) findViewById(R.id.credit);
@@ -163,5 +199,18 @@ public class MeditacaoAdventista extends Activity {
 		        startActivity(i);
 			}
         });
+    }
+    
+    public void loadDetailBack() {
+    	OnClickListener onClickListenerBack = new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+            	setContentView(R.layout.main);
+            	currentLayout = R.layout.main;
+            	loadMain();
+            }
+        };
+        ((Button)findViewById(R.id.back1)).setOnClickListener(onClickListenerBack);
+    	((Button)findViewById(R.id.back2)).setOnClickListener(onClickListenerBack);
     }
 }

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package org.meditacaoadventista;
+package org.meditacaoadventista1;
 
 public final class R {
     public static final class attr {
@@ -66,32 +66,34 @@ containing a value of this type.
         public static final int logo=0x7f020001;
     }
     public static final class id {
-        public static final int ad=0x7f050003;
-        public static final int alert=0x7f050005;
-        public static final int c=0x7f050004;
-        public static final int credit=0x7f05000c;
-        public static final int d=0x7f050000;
-        public static final int datePicker=0x7f050006;
-        public static final int mode_1=0x7f050008;
-        public static final int mode_2=0x7f050009;
-        public static final int mode_3=0x7f05000a;
-        public static final int open=0x7f05000b;
-        public static final int radioGroup=0x7f050007;
-        public static final int t=0x7f050001;
-        public static final int v=0x7f050002;
+        public static final int ad=0x7f050004;
+        public static final int alert=0x7f050007;
+        public static final int back1=0x7f050000;
+        public static final int back2=0x7f050006;
+        public static final int c=0x7f050005;
+        public static final int credit=0x7f05000e;
+        public static final int d=0x7f050001;
+        public static final int datePicker=0x7f050008;
+        public static final int mode_1=0x7f05000a;
+        public static final int mode_2=0x7f05000b;
+        public static final int mode_3=0x7f05000c;
+        public static final int open=0x7f05000d;
+        public static final int radioGroup=0x7f050009;
+        public static final int t=0x7f050002;
+        public static final int v=0x7f050003;
     }
     public static final class layout {
         public static final int detail=0x7f030000;
         public static final int main=0x7f030001;
     }
     public static final class string {
-        public static final int app_name=0x7f040001;
-        public static final int credit=0x7f040006;
-        public static final int hello=0x7f040000;
-        public static final int mode_1=0x7f040002;
-        public static final int mode_2=0x7f040003;
-        public static final int mode_3=0x7f040004;
-        public static final int open=0x7f040005;
+        public static final int app_name=0x7f040000;
+        public static final int back=0x7f040006;
+        public static final int credit=0x7f040005;
+        public static final int mode_1=0x7f040001;
+        public static final int mode_2=0x7f040002;
+        public static final int mode_3=0x7f040003;
+        public static final int open=0x7f040004;
     }
     public static final class styleable {
         /** Attributes that can be used with a com_admob_android_ads_AdView.
@@ -100,12 +102,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_admob_android_ads_AdView_backgroundColor org.meditacaoadventista:backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_admob_android_ads_AdView_keywords org.meditacaoadventista:keywords}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_admob_android_ads_AdView_primaryTextColor org.meditacaoadventista:primaryTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_admob_android_ads_AdView_refreshInterval org.meditacaoadventista:refreshInterval}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_admob_android_ads_AdView_secondaryTextColor org.meditacaoadventista:secondaryTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_admob_android_ads_AdView_testing org.meditacaoadventista:testing}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_backgroundColor org.meditacaoadventista1:backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_keywords org.meditacaoadventista1:keywords}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_primaryTextColor org.meditacaoadventista1:primaryTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_refreshInterval org.meditacaoadventista1:refreshInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_secondaryTextColor org.meditacaoadventista1:secondaryTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_admob_android_ads_AdView_testing org.meditacaoadventista1:testing}</code></td><td></td></tr>
            </table>
            @see #com_admob_android_ads_AdView_backgroundColor
            @see #com_admob_android_ads_AdView_keywords
@@ -119,7 +121,7 @@ containing a value of this type.
             0x7f010004, 0x7f010005
         };
         /**
-          <p>This symbol is the offset where the {@link org.meditacaoadventista.R.attr#backgroundColor}
+          <p>This symbol is the offset where the {@link org.meditacaoadventista1.R.attr#backgroundColor}
           attribute's value can be found in the {@link #com_admob_android_ads_AdView} array.
 
 
@@ -134,7 +136,7 @@ containing a value of this type.
         */
         public static final int com_admob_android_ads_AdView_backgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link org.meditacaoadventista.R.attr#keywords}
+          <p>This symbol is the offset where the {@link org.meditacaoadventista1.R.attr#keywords}
           attribute's value can be found in the {@link #com_admob_android_ads_AdView} array.
 
 
@@ -148,7 +150,7 @@ containing a value of this type.
         */
         public static final int com_admob_android_ads_AdView_keywords = 3;
         /**
-          <p>This symbol is the offset where the {@link org.meditacaoadventista.R.attr#primaryTextColor}
+          <p>This symbol is the offset where the {@link org.meditacaoadventista1.R.attr#primaryTextColor}
           attribute's value can be found in the {@link #com_admob_android_ads_AdView} array.
 
 
@@ -163,7 +165,7 @@ containing a value of this type.
         */
         public static final int com_admob_android_ads_AdView_primaryTextColor = 1;
         /**
-          <p>This symbol is the offset where the {@link org.meditacaoadventista.R.attr#refreshInterval}
+          <p>This symbol is the offset where the {@link org.meditacaoadventista1.R.attr#refreshInterval}
           attribute's value can be found in the {@link #com_admob_android_ads_AdView} array.
 
 
@@ -177,7 +179,7 @@ containing a value of this type.
         */
         public static final int com_admob_android_ads_AdView_refreshInterval = 4;
         /**
-          <p>This symbol is the offset where the {@link org.meditacaoadventista.R.attr#secondaryTextColor}
+          <p>This symbol is the offset where the {@link org.meditacaoadventista1.R.attr#secondaryTextColor}
           attribute's value can be found in the {@link #com_admob_android_ads_AdView} array.
 
 
@@ -192,7 +194,7 @@ containing a value of this type.
         */
         public static final int com_admob_android_ads_AdView_secondaryTextColor = 2;
         /**
-          <p>This symbol is the offset where the {@link org.meditacaoadventista.R.attr#testing}
+          <p>This symbol is the offset where the {@link org.meditacaoadventista1.R.attr#testing}
           attribute's value can be found in the {@link #com_admob_android_ads_AdView} array.
 
 

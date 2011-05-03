@@ -1,4 +1,4 @@
 <1.0>Esta versão não é mais suportada. Por favor atualize. Instale a versão mais recente disponível no web site oficial.</1.0>
 <2.0>Por favor atualize para a nova versão! Esta versão contém um problema que não permite ler as meditações do mês de Dezembro. Na nova versão isto foi corrigido. Pedimos desculpas.</2.0>
-<2.1>Meditação já disponível para Android! Fevereiro de 2011 disponível! Exceto a Juvenil...</2.1>
+<2.1>Meditação já disponível para Android! Maio de 2011 disponível! Exceto a Juvenil...</2.1>
 <android>Maio de 2011 disponível! Exceto a Juvenil...</android>

@@ -1,4 +1,4 @@
-<1.0>Esta versão não é mais suportada. Por favor atualize. Instale a versão mais recente disponível no web site oficial.</1.0>
-<2.0>Por favor atualize para a nova versão! Esta versão contém um problema que não permite ler as meditações do mês de Dezembro. Na nova versão isto foi corrigido. Pedimos desculpas.</2.0>
-<2.1>Meditação já disponível para Android! Janeiro de 2012 disponível!</2.1>
-<android>Janeiro de 2012 disponível!</android>
+<1.0>Esta versÃ£o nÃ£o Ã© mais suportada. Por favor atualize. Instale a versÃ£o mais recente disponÃ­vel no web site oficial.</1.0>
+<2.0>Por favor atualize para a nova versÃ£o! Esta versÃ£o contÃ©m um problema que nÃ£o permite ler as meditaÃ§Ãµes do mÃªs de Dezembro. Na nova versÃ£o isto foi corrigido. Pedimos desculpas.</2.0>
+<2.1>MeditaÃ§Ã£o jÃ¡ disponÃ­vel para Android! Estamos com problemas no indexador de textos da MeditaÃ§Ã£o devido a alteraÃ§Ãµes que a CPB fez no site. Devido a falta de tempo ainda nÃ£o foi possÃ­vel corrigir isto. Ainda este mÃªs esta situaÃ§Ã£o ficarÃ¡ resolvida.</2.1>
+<android>Estamos com problemas no indexador de textos da MeditaÃ§Ã£o devido a alteraÃ§Ãµes que a CPB fez no site. Devido a falta de tempo ainda nÃ£o foi possÃ­vel corrigir isto. Ainda este mÃªs esta situaÃ§Ã£o ficarÃ¡ resolvida.</android>

@@ -1,0 +1,19 @@
+<d>Domingo 30 de setembro</d>
+<t>Teste da Confiança</t>
+<v>[Daniel] era fiel. Daniel 6:4</v>
+<c>
+Os administradores do império medo-persa investigaram cuidadosamente a vida de Daniel e concluíram que ele era digno de confiança. Se outras pessoas investigassem a sua vida, como você se sairia no teste da fidedignidade? Quão honesto, confiável e íntegro é você? Avalie-se através das perguntas abaixo.
+11. Sou uma pessoa íntegra. Sou leal aos meus princípios, mesmo que ninguém esteja observando. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+12. Acho fácil confiar nos outros. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+13. As pessoas podem confiar na minha palavra. Cumpro minhas promessas. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+14. Meus amigos sabem que podem contar comigo. Faço exatamente o que digo que farei, a despeito de obstáculos que possam aparecer. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+15. Assumo a responsabilidade por meus atos. Se faço um trato com alguém, cumpro minha parte. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+16. Sou uma pessoa confiável. Meus conhecidos sabem que sou pontual e levo a sério meus compromissos. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+17. Tenho a reputação de ser honesto. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+18. Confio em Deus completamente. Creio em Suas promessas e sei que Ele fará exatamente o que diz. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+19. Cumpro as promessas que faço a Deus. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+10. Digo a verdade em todas as circunstâncias da vida. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+11. Em meu relacionamento com os outros, evito até mesmo o menor indício de engano. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+12. Meus amigos sabem que respeito aquilo que é propriedade deles, nunca tomando o que não me pertence sem obter permissão. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+13. Não fico ansioso ao enfrentar as dificuldades da vida, porque sei que posso depender de Deus, que sempre será um Amigo fiel. ( ) Nunca ( ) Às Vezes ( ) Geralmente ( ) Sempre
+</c>

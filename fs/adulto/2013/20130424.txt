@@ -1,15 +1,10 @@
-A Ovelha Perdida
-Quarta, 24 de abril
- 
-
-Se um homem tiver cem ovelhas, e uma delas se extraviar, n√£o deixar√° ele nos montes as noventa e nove, indo procurar a que se extraviou? Mateus 18:12 (ver versos 11-14)
- 
-A par√°bola do pastor em busca da ovelha perdida √© uma representa√ß√£o da terna paci√™ncia, da perseveran√ßa e do grande amor de Deus. Ao contemplarmos o amor desinteressado de Deus, nosso cora√ß√£o transborda em gratid√£o, louvor e a√ß√£o de gra√ßas. Rendemos-Lhe louvores pelo dom inestim√°vel de Seu filho unig√™nito. N√£o h√° animal mais indefeso e desnorteado do que a ovelha que se afasta do aprisco. Se o compassivo pastor n√£o sair em busca da ovelha errante, ela nunca encontrar√° o caminho de volta para o aprisco. O pastor precisa tom√°-la em seus bra√ßos e carreg√°-la at√© o aprisco. [...]
-
-Os fariseus estavam prontos para acusar e condenar Jesus, porque, ao contr√°rio deles, n√£o repeliu e condenou os publicanos e pecadores. [...] Eles pensavam que seriam justificados pela Lei, e n√£o consideraram a compaix√£o e a miseric√≥rdia apresentadas por Jesus em Suas li√ß√µes como algo necess√°rio de se trazer para a vida pr√°tica. [...] Cristo nunca convidou o in√≠quo para ir at√© Ele e ser salvo em seus pecados, mas para ser salvo de seus pecados. [...]
-
-Cristo n√£o destinou o plano da salva√ß√£o a algum povo ou na√ß√£o em particular. Ele declarou: ‚ÄúDou a Minha vida pelas ovelhas. Ainda tenho outras ovelhas, n√£o deste aprisco; a Mim Me conv√©m conduzi-las; elas ouvir√£o a Minha voz; ent√£o, haver√° um rebanho e um pastor‚Äù (Jo 10:15, 16). [...]
-
-Que todo cora√ß√£o desanimado e receoso crie coragem, mesmo que tenha se comportado impiamente. [...] N√£o pense que talvez Deus perdoe suas transgress√µes e permita-lhe entrar em Sua presen√ßa. Lembre-se de que foi Deus quem deu o primeiro passo; que Ele saiu √† sua procura enquanto voc√™ ainda estava em rebeli√£o contra Ele. [...]
-
-Se o zelo e o entusiasmo tidos como necess√°rios para o sucesso em conquistar as coisas deste mundo n√£o forem empregados para buscar a salva√ß√£o do perdido, o que possui um duplo objetivo ‚Äì aben√ßoar e nos tonar uma b√™n√ß√£o ‚Äì, o que ser√°? Por meio da convers√£o, somos pessoalmente colocados em conex√£o vital com Jesus Cristo, que Se faz em n√≥s sabedoria, justi√ßa, santifica√ß√£o e reden√ß√£o (Signs of the Times, 22 de janeiro de 1894).
+<d>Quarta, 24 de abril</d>
+<t>A Ovelha Perdida</t>
+<v>Se um homem tiver cem ovelhas, e uma delas se extraviar, n„o deixar· ele nos montes as noventa e nove, indo procurar a que se extraviou? Mateus†18:12 (ver versos 11-14)</v>
+<c>
+A par·bola do pastor em busca da ovelha perdida È uma representaÁ„o da terna paciÍncia, da perseveranÁa e do grande amor de Deus. Ao contemplarmos o amor desinteressado de Deus, nosso coraÁ„o transborda em gratid„o, louvor e aÁ„o de graÁas. Rendemos-Lhe louvores pelo dom inestim·vel de Seu filho unigÍnito. N„o h· animal mais indefeso e desnorteado do que a ovelha que se afasta do aprisco. Se o compassivo pastor n„o sair em busca da ovelha errante, ela nunca encontrar· o caminho de volta para o aprisco. O pastor precisa tom·-la em seus braÁos e carreg·-la atÈ o aprisco. [...]
+Os fariseus estavam prontos para acusar e condenar Jesus, porque, ao contr·rio deles, n„o repeliu e condenou os publicanos e pecadores. [...] Eles pensavam que seriam justificados pela Lei, e n„o consideraram a compaix„o e a misericÛrdia apresentadas por Jesus em Suas liÁıes como algo necess·rio de se trazer para a vida pr·tica. [...] Cristo nunca convidou o inÌquo para ir atÈ Ele e ser salvo em seus pecados, mas para ser salvo de seus pecados. [...]
+Cristo n„o destinou o plano da salvaÁ„o a algum povo ou naÁ„o em particular. Ele declarou: ìDou a Minha vida pelas ovelhas. Ainda tenho outras ovelhas, n„o deste aprisco; a Mim Me convÈm conduzi-las; elas ouvir„o a Minha voz; ent„o, haver· um rebanho e um pastorî (Jo 10:15, 16). [...]
+Que todo coraÁ„o desanimado e receoso crie coragem, mesmo que tenha se comportado impiamente. [...] N„o pense que talvez Deus perdoe suas transgressıes e permita-lhe entrar em Sua presenÁa. Lembre-se de que foi Deus quem deu o primeiro passo; que Ele saiu ‡ sua procura enquanto vocÍ ainda estava em rebeli„o contra Ele. [...]
+Se o zelo e o entusiasmo tidos como necess·rios para o sucesso em conquistar as coisas deste mundo n„o forem empregados para buscar a salvaÁ„o do perdido, o que possui um duplo objetivo ñ abenÁoar e nos tonar uma bÍnÁ„o ñ, o que ser·? Por meio da convers„o, somos pessoalmente colocados em conex„o vital com Jesus Cristo, que Se faz em nÛs sabedoria, justiÁa, santificaÁ„o e redenÁ„o (Signs of the Times, 22 de janeiro de 1894).
+</c>

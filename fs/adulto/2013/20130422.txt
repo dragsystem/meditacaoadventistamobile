@@ -1,18 +1,11 @@
-A Vinha do Senhor
-Segunda, 22 de abril
- 
-
-Houve um homem, pai de famÃ­lia, que plantou uma vinha, e circundou-a de um valado. Mateus 21:33 (ver versos 33-41)
-
-O profeta IsaÃ­as fez uma descriÃ§Ã£o dessa vinha: â€œAgora, cantarei ao meu amado o cÃ¢ntico do meu querido a respeito da sua vinha. O meu amado tem uma vinha em um outeiro fÃ©rtil. E a cercou, e a limpou das pedras, e a plantou de excelentes vides; e edificou no meio dela uma torre e tambÃ©m construiu nela um lagarâ€ (Is 5:1, 2).
-
-Esse sÃ­mbolo representa as vantagens e oportunidades concedidas a Israel. [...] Por meio de MoisÃ©s, os israelitas receberam os preceitos e mandamentos divinos. [...] Deus lhes dotou de riquezas e prosperidade. Eles foram favorecidos com todos os privilÃ©gios temporais e espirituais. Foram protegidos pela lei dos Dez Mandamentos. Foi isso que distinguiu Israel de todas as outras naÃ§Ãµes na face da Terra.
-
-A igreja Ã© o tesouro peculiar de Deus, preciosa aos Seus olhos e objeto de Seu infinito amor. [...] O pai de famÃ­lia fez todas as provisÃµes para que a vinha recebesse a melhor atenÃ§Ã£o. Tudo o que pÃ´de ser feito se fez para que a vinha honrasse seu proprietÃ¡rio. [...]
-
-Com fogo, tempestade e morte, o grande EU SOU redimiu Seu povo, a fim de tornÃ¡-lo glorioso como Seu representante especial. Ele libertou os israelitas da terra da escravidÃ£o. Ele os sustentou como que sobre as asas de uma Ã¡guia e os trouxe para Si, para que habitassem sob a sombra do AltÃ­ssimo. Cristo era o guia invisÃ­vel dos filhos de Israel em suas peregrinaÃ§Ãµes no deserto. [...] Eles testemunharam a mais maravilhosa manifestaÃ§Ã£o do poder de Deus ao atravessarem o Mar Vermelho. Dia a dia viajavam sob a coluna de nuvem, o sÃ­mbolo da presenÃ§a divina. [...]
-
-Com tal lÃ­der, com tais manifestaÃ§Ãµes de Sua grandeza e poder, os filhos de Israel deveriam ter sido inspirados com fÃ© e coragem para prosseguir. [...] Apenas dois entre aqueles que atravessaram o Mar Vermelho viveram para entrar na terra prometida. [...]
-
-Precisamos cuidar para nÃ£o sofrer o mesmo fim do antigo Israel. A histÃ³ria de sua desobediÃªncia e queda foi registrada para nossa instruÃ§Ã£o, para que evitemos o mesmo procedimento (Review and Herald, 10 de julho de 1900).
- 
+<d>Segunda, 22 de abril</d>
+<t>A Vinha do Senhor</t>
+<v>Houve um homem, pai de família, que plantou uma vinha, e circundou-a de um valado. Mateus 21:33 (ver versos 33-41)</v>
+<c>
+O profeta Isaías fez uma descrição dessa vinha: “Agora, cantarei ao meu amado o cântico do meu querido a respeito da sua vinha. O meu amado tem uma vinha em um outeiro fértil. E a cercou, e a limpou das pedras, e a plantou de excelentes vides; e edificou no meio dela uma torre e também construiu nela um lagar” (Is 5:1, 2).
+Esse símbolo representa as vantagens e oportunidades concedidas a Israel. [...] Por meio de Moisés, os israelitas receberam os preceitos e mandamentos divinos. [...] Deus lhes dotou de riquezas e prosperidade. Eles foram favorecidos com todos os privilégios temporais e espirituais. Foram protegidos pela lei dos Dez Mandamentos. Foi isso que distinguiu Israel de todas as outras nações na face da Terra.
+A igreja é o tesouro peculiar de Deus, preciosa aos Seus olhos e objeto de Seu infinito amor. [...] O pai de família fez todas as provisões para que a vinha recebesse a melhor atenção. Tudo o que pôde ser feito se fez para que a vinha honrasse seu proprietário. [...]
+Com fogo, tempestade e morte, o grande EU SOU redimiu Seu povo, a fim de torná-lo glorioso como Seu representante especial. Ele libertou os israelitas da terra da escravidão. Ele os sustentou como que sobre as asas de uma águia e os trouxe para Si, para que habitassem sob a sombra do Altíssimo. Cristo era o guia invisível dos filhos de Israel em suas peregrinações no deserto. [...] Eles testemunharam a mais maravilhosa manifestação do poder de Deus ao atravessarem o Mar Vermelho. Dia a dia viajavam sob a coluna de nuvem, o símbolo da presença divina. [...]
+Com tal líder, com tais manifestações de Sua grandeza e poder, os filhos de Israel deveriam ter sido inspirados com fé e coragem para prosseguir. [...] Apenas dois entre aqueles que atravessaram o Mar Vermelho viveram para entrar na terra prometida. [...]
+Precisamos cuidar para não sofrer o mesmo fim do antigo Israel. A história de sua desobediência e queda foi registrada para nossa instrução, para que evitemos o mesmo procedimento (Review and Herald, 10 de julho de 1900).
+</c>

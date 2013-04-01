@@ -1,17 +1,10 @@
-Dois Filhos
-TerÃ§a, 2 de abril
- 
-
-Um homem tinha dois filhos. Chegando-se ao primeiro, disse: Filho, vai hoje trabalhar na vinha. Ele respondeu: Sim, senhor; porÃ©m nÃ£o foi. Dirigindo-se ao segundo, disse-lhe a mesma coisa. Mas este respondeu: NÃ£o quero; depois, arrependido, foi. Qual dos dois fez a vontade do pai? Mateus 21:28-31
- 
-Na parÃ¡bola, o filho que se recusou a ir representa o mundo gentÃ­lico; e a classe que respondeu â€œsim, senhorâ€ representa os fariseus. Cristo havia acabado de purificar o templo da presenÃ§a daqueles que o maculavam com o trÃ¡fico proibido. A divindade irradiou atravÃ©s da humanidade e os seres humanos viram a glÃ³ria e o poder de Deus se manifestarem diante de seus olhos. [...] Ao Se dirigir Jesus para JerusalÃ©m, a multidÃ£o cobriu o chÃ£o com as vestes, espalhou ramos de palmeira pelo caminho e entoou louvores a Ele, cantando: â€œHosana ao Filho de Davi!â€ Apesar de a multidÃ£o jubilosa nÃ£o ousar dar continuidade Ã s aclamaÃ§Ãµes atÃ© alcanÃ§ar o portÃ£o do templo, por temor dos sacerdotes e lÃ­deres, as crianÃ§as retomaram o cÃ¢ntico e renderam louvores a Deus no templo, entoando: â€œHosana ao Filho de Davi!â€ [...]
-
-O povo gentio aceitou a verdade, mas aqueles que possuÃ­am tÃ£o grande luz e privilÃ©gios maravilhosos, aqueles que receberam bÃªnÃ§Ã£os espirituais e tambÃ©m temporais recusaram a mensagem de salvaÃ§Ã£o. Professavam ser o povo de Deus. Diziam: â€œSim, senhorâ€, mas fracassaram em fazer a vontade do Pai. [...]
-
-No instante em que o convite celestial alcanÃ§ou seus ouvidos, sua resposta foi: â€œSim, Senhor, eu creio na verdadeâ€? Mas, pelas aÃ§Ãµes da sua vida, vocÃª demonstrou descrer? Abrigou vocÃª a verdade em seu coraÃ§Ã£o? Permitiu que o poder transformador dela tomasse posse de seu ser? Foi a graÃ§a santificadora introduzida em seu carÃ¡ter? Como vocÃª se encontra? [â€¦]
-
-Ã‰ o privilÃ©gio de todos dizer: â€œExecutarei as ordens de meu CapitÃ£o palavra por palavra, estando ou nÃ£o em harmonia com a minha vontade.â€ [...] Direi: â€œQuais sÃ£o as minhas ordens? Qual Ã© o meu dever? O que diz o Mestre para mim? [â€¦] Qual Ã© a minha situaÃ§Ã£o diante de Deus?â€ Assim que estabelecemos uma relaÃ§Ã£o correta com Deus, devemos entender nosso dever e executÃ¡-lo; no entanto, nÃ£o devemos pensar que nossas boas aÃ§Ãµes nos habilitam para a salvaÃ§Ã£o. [...]
-
-A questÃ£o nÃ£o Ã© como vocÃª subsistirÃ¡ no dia de angÃºstia ou em alguma ocasiÃ£o futura, e sim: Como estÃ¡ seu coraÃ§Ã£o hoje? VocÃª vai trabalhar hoje? (Review and Herald, 9 de abril de 1889).
- 
- 
+<d>Terça, 2 de abril</d>
+<t>Dois Filhos</t>
+<v>Um homem tinha dois filhos. Chegando-se ao primeiro, disse: Filho, vai hoje trabalhar na vinha. Ele respondeu: Sim, senhor; porém não foi. Dirigindo-se ao segundo, disse-lhe a mesma coisa. Mas este respondeu: Não quero; depois, arrependido, foi. Qual dos dois fez a vontade do pai? Mateus 21:28-31</v>
+<c>
+Na parábola, o filho que se recusou a ir representa o mundo gentílico; e a classe que respondeu “sim, senhor” representa os fariseus. Cristo havia acabado de purificar o templo da presença daqueles que o maculavam com o tráfico proibido. A divindade irradiou através da humanidade e os seres humanos viram a glória e o poder de Deus se manifestarem diante de seus olhos. [...] Ao Se dirigir Jesus para Jerusalém, a multidão cobriu o chão com as vestes, espalhou ramos de palmeira pelo caminho e entoou louvores a Ele, cantando: “Hosana ao Filho de Davi!” Apesar de a multidão jubilosa não ousar dar continuidade às aclamações até alcançar o portão do templo, por temor dos sacerdotes e líderes, as crianças retomaram o cântico e renderam louvores a Deus no templo, entoando: “Hosana ao Filho de Davi!” [...]
+O povo gentio aceitou a verdade, mas aqueles que possuíam tão grande luz e privilégios maravilhosos, aqueles que receberam bênçãos espirituais e também temporais recusaram a mensagem de salvação. Professavam ser o povo de Deus. Diziam: “Sim, senhor”, mas fracassaram em fazer a vontade do Pai. [...]
+No instante em que o convite celestial alcançou seus ouvidos, sua resposta foi: “Sim, Senhor, eu creio na verdade”? Mas, pelas ações da sua vida, você demonstrou descrer? Abrigou você a verdade em seu coração? Permitiu que o poder transformador dela tomasse posse de seu ser? Foi a graça santificadora introduzida em seu caráter? Como você se encontra? […]
+É o privilégio de todos dizer: “Executarei as ordens de meu Capitão palavra por palavra, estando ou não em harmonia com a minha vontade.” [...] Direi: “Quais são as minhas ordens? Qual é o meu dever? O que diz o Mestre para mim? […] Qual é a minha situação diante de Deus?” Assim que estabelecemos uma relação correta com Deus, devemos entender nosso dever e executá-lo; no entanto, não devemos pensar que nossas boas ações nos habilitam para a salvação. [...]
+A questão não é como você subsistirá no dia de angústia ou em alguma ocasião futura, e sim: Como está seu coração hoje? Você vai trabalhar hoje? (Review and Herald, 9 de abril de 1889).
+</c>

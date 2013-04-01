@@ -1,15 +1,10 @@
-Igreja Submersa
-S√°bado, 27 de abril
- 
-
-Como Deus √© maravilhoso no Seu templo! Salmo 68:35
-
-Feche os olhos e imagine uma cena. As montanhas com picos nevados se elevam no horizonte. Em outros montes mais pr√≥ximos, as colinas se revestem de verde. Olhando para cima, voc√™ v√™ c√©u azul e o Sol radiante. Em frente, est√° um imenso lago que mais parece um espelho de cristal. Suas √°guas pl√°cidas parecem esticadas por m√£os invis√≠veis em uma pel√≠cula impressionantemente lisa. Tudo est√° perfeito, salvo por um elemento constrangedor, transtornando completamente a paisagem. No meio da lagoa, surge do nada uma enorme torre de igreja. √â um campan√°rio de tijolos velhos com uma cruz de ferro fixada no topo, despontando de dentro das √°guas.
-
-N√≥s estamos no Lago di Resia, perto de Tirol, na It√°lia. Nos anos 1940, uma empresa el√©trica decidiu fazer uma enorme barragem para construir uma hidrel√©trica. Essa interven√ß√£o inundou uma imensa √°rea habitada por v√°rias vilas e povoados. Obviamente, as fam√≠lias foram relocadas, mesmo a contragosto. Por√©m, quando as √°guas invadiram tudo, a charmosa igreja principal foi para baixo do lago. Como a torre do sino era a constru√ß√£o mais alta da vila, ficou para fora da √°gua.
-
-√â muito curioso ver esta cena: uma igreja mergulhada na √°gua. No inverno, quando o lago inteiro se congela, √© poss√≠vel ir caminhando sobre o gelo at√© o viajante encostar no solit√°rio campan√°rio. N√£o h√° mais sino l√° dentro, mas a nostalgia do local surpreende.
-
-Falando em igreja, at√© que ponto a religi√£o sobreviver√° no mundo de hoje? N√£o parece que, √†s vezes, o mal tem se elevado tanto a ponto de inundar at√© os planos de Deus? Neste s√°bado, vou lhe garantir uma coisa: caiam os c√©us ou a Terra, a soberania do Senhor permanecer√° intacta. Se o pecado afetou a paz do Universo, a cruz esmagou de uma vez por todas a cabe√ßa do inimigo de Deus.
-
-Um templo pode ser feito de pedras e tijolos, mas a igreja mais importante √© aquela feita de gente como eu e voc√™ ‚Äì filhos de um Deus que nos ama demais. A verdadeira igreja de Cristo jamais ficar√° debaixo das √°guas!
+<d>S·bado, 27 de abril</d>
+<t>Igreja Submersa</t>
+<v>Como Deus È maravilhoso no Seu templo! Salmo 68:35</v>
+<c>
+Feche os olhos e imagine uma cena. As montanhas com picos nevados se elevam no horizonte. Em outros montes mais prÛximos, as colinas se revestem de verde. Olhando para cima, vocÍ vÍ cÈu azul e o Sol radiante. Em frente, est· um imenso lago que mais parece um espelho de cristal. Suas ·guas pl·cidas parecem esticadas por m„os invisÌveis em uma pelÌcula impressionantemente lisa. Tudo est· perfeito, salvo por um elemento constrangedor, transtornando completamente a paisagem. No meio da lagoa, surge do nada uma enorme torre de igreja. … um campan·rio de tijolos velhos com uma cruz de ferro fixada no topo, despontando de dentro das ·guas.
+NÛs estamos no Lago di Resia, perto de Tirol, na It·lia. Nos anos 1940, uma empresa elÈtrica decidiu fazer uma enorme barragem para construir uma hidrelÈtrica. Essa intervenÁ„o inundou uma imensa ·rea habitada por v·rias vilas e povoados. Obviamente, as famÌlias foram relocadas, mesmo a contragosto. PorÈm, quando as ·guas invadiram tudo, a charmosa igreja principal foi para baixo do lago. Como a torre do sino era a construÁ„o mais alta da vila, ficou para fora da ·gua.
+… muito curioso ver esta cena: uma igreja mergulhada na ·gua. No inverno, quando o lago inteiro se congela, È possÌvel ir caminhando sobre o gelo atÈ o viajante encostar no solit·rio campan·rio. N„o h· mais sino l· dentro, mas a nostalgia do local surpreende.
+Falando em igreja, atÈ que ponto a religi„o sobreviver· no mundo de hoje? N„o parece que, ‡s vezes, o mal tem se elevado tanto a ponto de inundar atÈ os planos de Deus? Neste s·bado, vou lhe garantir uma coisa: caiam os cÈus ou a Terra, a soberania do Senhor permanecer· intacta. Se o pecado afetou a paz do Universo, a cruz esmagou de uma vez por todas a cabeÁa do inimigo de Deus.
+Um templo pode ser feito de pedras e tijolos, mas a igreja mais importante È aquela feita de gente como eu e vocÍ ñ filhos de um Deus que nos ama demais. A verdadeira igreja de Cristo jamais ficar· debaixo das ·guas!
+</c>

@@ -1,16 +1,9 @@
-ï»¿Perto do CÃ©u
-EGW
-  
-A Grande Ceia
-Segunda, 1Âº de abril
- 
-
-Certo homem deu uma grande ceia e convidou muitos. Ã€ hora da ceia, enviou o seu servo para avisar aos convidados: Vinde, porque tudo jÃ¡ estÃ¡ preparado. Lucas 14:16, 17 (ver versos 16-24)
- 
-Essa parÃ¡bola representa apropriadamente a condiÃ§Ã£o de muitos que professam crer na verdade presente. O Senhor lhes mandou um convite para a ceia que lhes preparou com grande custo; os interesses mundanos, porÃ©m, para eles se aparentam ser de maior importÃ¢ncia que o tesouro celestial. SÃ£o convidados a tomar parte em coisas de valor eterno, mas sua fazenda, o gado e os interesses domÃ©sticos lhes parecem de tÃ£o maior importÃ¢ncia do que o atender ao convite celestial que sobrepujam a toda atraÃ§Ã£o divina, e essas coisas terrestres sÃ£o apresentadas como desculpas por sua desobediÃªncia Ã  ordem celestial: â€œVinde, que jÃ¡ tudo estÃ¡ preparadoâ€ (Lc 14:17). [...]
-
-As prÃ³prias bÃªnÃ§Ã£os dadas por Deus a essas pessoas para provÃ¡-las, para ver se dÃ£o â€œa Deus o que Ã© de Deusâ€ (Mt 22:21), empregam elas como desculpa para nÃ£o obedecer Ã s reivindicaÃ§Ãµes da verdade. AbraÃ§aram seu tesouro terrestre e dizem: â€œPreciso cuidar destas coisas; nÃ£o posso negligenciar as coisas desta vida; elas sÃ£o minhas.â€ Assim, o coraÃ§Ã£o dessas pessoas se tem tornado tÃ£o insensÃ­vel Ã  impressÃ£o como o solo batido das estradas. [...]
-
-O coraÃ§Ã£o dessas pessoas estÃ¡ tÃ£o coberto de espinhos e cheio dos cuidados desta vida que as coisas celestiais nÃ£o conseguem encontrar nele lugar. Jesus convida os cansados e oprimidos, prometendo-lhes descanso se forem ter com Ele. [...] Ele quer que ponham de lado os pesados fardos do cuidado e da perplexidade mundanos e tomem Seu jugo que Ã© abnegaÃ§Ã£o e sacrifÃ­cio pelos outros. Esse fardo serÃ¡ leve. Os que se recusam a aceitar o alÃ­vio que Cristo lhes oferece e continuam a levar o mortificante jugo do egoÃ­smo, sobrecarregando a mente em extremo com projetos, a fim de acumular dinheiro para satisfaÃ§Ãµes egoÃ­stas, nÃ£o experimentaram a paz e o descanso que se encontram em levar o jugo de Cristo e em carregar os fardos da abnegaÃ§Ã£o e da desinteressada beneficÃªncia levados por Cristo em seu favor. [...]
-
-Pessoas por quem Cristo morreu poderiam ser salvas por seus esforÃ§os pessoais e um piedoso exemplo. [...] A preciosa luz, no entanto, Ã© ocultada sob o alqueire e nÃ£o ilumina os que estÃ£o na casa (Review and Herald, 25 de agosto de 1874).
+<d>Segunda, 1º de abril</d>
+<t>A Grande Ceia</t>
+<v>Certo homem deu uma grande ceia e convidou muitos. À hora da ceia, enviou o seu servo para avisar aos convidados: Vinde, porque tudo já está preparado. Lucas 14:16, 17 (ver versos 16-24)</v>
+<c>
+Essa parábola representa apropriadamente a condição de muitos que professam crer na verdade presente. O Senhor lhes mandou um convite para a ceia que lhes preparou com grande custo; os interesses mundanos, porém, para eles se aparentam ser de maior importância que o tesouro celestial. São convidados a tomar parte em coisas de valor eterno, mas sua fazenda, o gado e os interesses domésticos lhes parecem de tão maior importância do que o atender ao convite celestial que sobrepujam a toda atração divina, e essas coisas terrestres são apresentadas como desculpas por sua desobediência à ordem celestial: “Vinde, que já tudo está preparado” (Lc 14:17). [...]
+As próprias bênçãos dadas por Deus a essas pessoas para prová-las, para ver se dão “a Deus o que é de Deus” (Mt 22:21), empregam elas como desculpa para não obedecer às reivindicações da verdade. Abraçaram seu tesouro terrestre e dizem: “Preciso cuidar destas coisas; não posso negligenciar as coisas desta vida; elas são minhas.” Assim, o coração dessas pessoas se tem tornado tão insensível à impressão como o solo batido das estradas. [...]
+O coração dessas pessoas está tão coberto de espinhos e cheio dos cuidados desta vida que as coisas celestiais não conseguem encontrar nele lugar. Jesus convida os cansados e oprimidos, prometendo-lhes descanso se forem ter com Ele. [...] Ele quer que ponham de lado os pesados fardos do cuidado e da perplexidade mundanos e tomem Seu jugo que é abnegação e sacrifício pelos outros. Esse fardo será leve. Os que se recusam a aceitar o alívio que Cristo lhes oferece e continuam a levar o mortificante jugo do egoísmo, sobrecarregando a mente em extremo com projetos, a fim de acumular dinheiro para satisfações egoístas, não experimentaram a paz e o descanso que se encontram em levar o jugo de Cristo e em carregar os fardos da abnegação e da desinteressada beneficência levados por Cristo em seu favor. [...]
+Pessoas por quem Cristo morreu poderiam ser salvas por seus esforços pessoais e um piedoso exemplo. [...] A preciosa luz, no entanto, é ocultada sob o alqueire e não ilumina os que estão na casa (Review and Herald, 25 de agosto de 1874).
+</c>

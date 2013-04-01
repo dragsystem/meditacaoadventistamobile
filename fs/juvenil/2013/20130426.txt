@@ -1,14 +1,10 @@
-O Menor
-Sexta, 26 de abril
- 
-
-Quem Ã© fiel nas coisas pequenas tambÃ©m serÃ¡ nas grandes. Lucas 16:10
-
-Para nossa viagem de hoje, nÃ£o se esqueÃ§a da lupa. Isso mesmo! Pois lÃ¡ na RÃºssia, na cidade de Omsk, mora um grandioso especialista em coisas minÃºsculas. Seu nome Ã© Anatoly Konenko. Ele Ã© o mais destacado miniaturista do mundo. JÃ¡ pensou em ganhar a vida fazendo um violino do tamanho de um mosquito? Ou escrever um livro inteiro com menos de um milÃ­metro? Que tal pÃ´r ferraduras nas patas de um inseto? Esse camarada faz coisas assim.
-
-Uma de suas Ãºltimas criaÃ§Ãµes foi o menor aquÃ¡rio do planeta. Ele contÃ©m apenas 10 mililitros de Ã¡gua: cerca de duas colherzinhas de chÃ¡. No minÃºsculo espaÃ§o, ele ainda colocou areia, pedrinhas coloridas, algas marinhas e peixinhos vivos. Seus 30 anos de experiÃªncia levaram-no ainda mais longe: ele fez um microcompressor de Ã¡gua, purificador e atÃ© a redinha para pegar gentilmente os habitantes aquÃ¡ticos desse microscÃ³pico universo.
-
-Ao ver as pequeninas criaÃ§Ãµes de Anatoly Konenko, parei para pensar na incrÃ­vel riqueza de detalhes com a qual Deus criou o Universo e a vida. Por isso, quando Ele nos pede para prestar atenÃ§Ã£o em alguns detalhes, isso nÃ£o Ã© exagero. Para alguns, pode parecer meio radical Deus dizer que nem um til poderia ser mudado da BÃ­blia. Mas, quando vocÃª conhece os detalhes do amor de Deus em sua vida, entende o porquÃª. Muita coisa pode ser feita no espaÃ§o de um ponto. E o inimigo tenta a gente assim: nas pequenas questÃµes.
-
-Como um juvenil cristÃ£o, nÃ£o se distraia por nada dos detalhes da vida. O que Deus pede tem que ser levado a sÃ©rio. Por exemplo, nÃ£o mentir Ã© fechar as portas atÃ© para as pequenas meias-verdades! Por isso, acostume-se a fazer o que Ã© certo atÃ© nas pequenas coisas.
-Quem Ã© fiel nas pequenas coisas estÃ¡ preparado para alcanÃ§ar bÃªnÃ§Ã£os maiores de Deus.
+<d>Sexta, 26 de abril</d>
+<t>O Menor</t>
+<v>Quem é fiel nas coisas pequenas também será nas grandes. Lucas 16:10</v>
+<c>
+Para nossa viagem de hoje, não se esqueça da lupa. Isso mesmo! Pois lá na Rússia, na cidade de Omsk, mora um grandioso especialista em coisas minúsculas. Seu nome é Anatoly Konenko. Ele é o mais destacado miniaturista do mundo. Já pensou em ganhar a vida fazendo um violino do tamanho de um mosquito? Ou escrever um livro inteiro com menos de um milímetro? Que tal pôr ferraduras nas patas de um inseto? Esse camarada faz coisas assim.
+Uma de suas últimas criações foi o menor aquário do planeta. Ele contém apenas 10 mililitros de água: cerca de duas colherzinhas de chá. No minúsculo espaço, ele ainda colocou areia, pedrinhas coloridas, algas marinhas e peixinhos vivos. Seus 30 anos de experiência levaram-no ainda mais longe: ele fez um microcompressor de água, purificador e até a redinha para pegar gentilmente os habitantes aquáticos desse microscópico universo.
+Ao ver as pequeninas criações de Anatoly Konenko, parei para pensar na incrível riqueza de detalhes com a qual Deus criou o Universo e a vida. Por isso, quando Ele nos pede para prestar atenção em alguns detalhes, isso não é exagero. Para alguns, pode parecer meio radical Deus dizer que nem um til poderia ser mudado da Bíblia. Mas, quando você conhece os detalhes do amor de Deus em sua vida, entende o porquê. Muita coisa pode ser feita no espaço de um ponto. E o inimigo tenta a gente assim: nas pequenas questões.
+Como um juvenil cristão, não se distraia por nada dos detalhes da vida. O que Deus pede tem que ser levado a sério. Por exemplo, não mentir é fechar as portas até para as pequenas meias-verdades! Por isso, acostume-se a fazer o que é certo até nas pequenas coisas.
+Quem é fiel nas pequenas coisas está preparado para alcançar bênçãos maiores de Deus.
+</c>

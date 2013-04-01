@@ -1,16 +1,10 @@
-Ouvintes dos Pedregais
-SÃ¡bado, 6 de abril
- 
-
-Outra parte caiu em pedregais, onde nÃ£o havia terra bastante, e logo nasceu, porque nÃ£o tinha terra funda. Mateus 13:5
-
-A semente lanÃ§ada no pedregal encontra solo pouco profundo. A planta brota rapidamente, mas as raÃ­zes nÃ£o podem penetrar no rochedo a fim de obter nutriÃ§Ã£o para sustentar seu crescimento, e logo perece. Muitos que professam religiÃ£o sÃ£o ouvintes de pedregais. Essa classe pode ser convencida com facilidade, mas sÃ³ possui religiÃ£o superficial. [...]
-
-Existem aqueles que recebem a preciosa verdade com alegria; sÃ£o excessivamente zelosos e se admiram de que nem todos sejam capazes de enxergar as coisas que lhes sÃ£o tÃ£o claras. Insistem para que outros aceitem a doutrina que tanto lhes satisfaz. SÃ£o rÃ¡pidos em condenar o hesitante e aqueles que cuidadosamente avaliam as evidÃªncias da verdade e consideram todos os seus aspectos. [...] No entanto, no momento da provaÃ§Ã£o, esses entusiastas geralmente vacilam e fracassam. [...]
-
-Como as raÃ­zes de uma planta que penetram o solo para sugar a umidade e os nutrientes da terra, deve o cristÃ£o permanecer em Cristo e absorver a seiva e os nutrientes que dEle emanam, assim como os ramos da videira, atÃ© que nÃ£o possa ser pelas provaÃ§Ãµes desviado da Fonte de sua forÃ§a. [...]
-
-Os ouvintes de pedregais podem se regozijar por um perÃ­odo, pois pensam que a religiÃ£o Ã© algo que os libertarÃ¡ da prova e de toda dificuldade. Eles nÃ£o avaliaram o risco. [...]
-
-Os que foram representados por Cristo como ouvintes de pedregais confiavam em suas boas obras, em seus bons impulsos. Confiavam na prÃ³pria forÃ§a e justiÃ§a. NÃ£o estavam â€œfortalecidos no Senhor e na forÃ§a do Seu poderâ€ (Ef 6:10). NÃ£o sentiam que a eterna vigilÃ¢ncia era o preÃ§o da seguranÃ§a. Poderiam ter se revestido de toda a armadura de Deus e ser capacitados a oferecer resistÃªncia aos enganos do inimigo. As ricas e abundantes promessas de Deus foram proferidas em seu benefÃ­cio e, ao crer na Palavra de Deus, teriam sido revestidos com um â€œassim diz o Senhorâ€ e habilitados a se opor a cada artimanha maliciosa do adversÃ¡rio; pois, ao atacar o inimigo como uma inundaÃ§Ã£o, o EspÃ­rito do Senhor levantaria contra ele uma bandeira em nosso favor (Review and Herald, 7 de junho de 1892).
- 
+<d>Sábado, 6 de abril</d>
+<t>Ouvintes dos Pedregais</t>
+<v>Outra parte caiu em pedregais, onde não havia terra bastante, e logo nasceu, porque não tinha terra funda. Mateus 13:5</v>
+<c>
+A semente lançada no pedregal encontra solo pouco profundo. A planta brota rapidamente, mas as raízes não podem penetrar no rochedo a fim de obter nutrição para sustentar seu crescimento, e logo perece. Muitos que professam religião são ouvintes de pedregais. Essa classe pode ser convencida com facilidade, mas só possui religião superficial. [...]
+Existem aqueles que recebem a preciosa verdade com alegria; são excessivamente zelosos e se admiram de que nem todos sejam capazes de enxergar as coisas que lhes são tão claras. Insistem para que outros aceitem a doutrina que tanto lhes satisfaz. São rápidos em condenar o hesitante e aqueles que cuidadosamente avaliam as evidências da verdade e consideram todos os seus aspectos. [...] No entanto, no momento da provação, esses entusiastas geralmente vacilam e fracassam. [...]
+Como as raízes de uma planta que penetram o solo para sugar a umidade e os nutrientes da terra, deve o cristão permanecer em Cristo e absorver a seiva e os nutrientes que dEle emanam, assim como os ramos da videira, até que não possa ser pelas provações desviado da Fonte de sua força. [...]
+Os ouvintes de pedregais podem se regozijar por um período, pois pensam que a religião é algo que os libertará da prova e de toda dificuldade. Eles não avaliaram o risco. [...]
+Os que foram representados por Cristo como ouvintes de pedregais confiavam em suas boas obras, em seus bons impulsos. Confiavam na própria força e justiça. Não estavam “fortalecidos no Senhor e na força do Seu poder” (Ef 6:10). Não sentiam que a eterna vigilância era o preço da segurança. Poderiam ter se revestido de toda a armadura de Deus e ser capacitados a oferecer resistência aos enganos do inimigo. As ricas e abundantes promessas de Deus foram proferidas em seu benefício e, ao crer na Palavra de Deus, teriam sido revestidos com um “assim diz o Senhor” e habilitados a se opor a cada artimanha maliciosa do adversário; pois, ao atacar o inimigo como uma inundação, o Espírito do Senhor levantaria contra ele uma bandeira em nosso favor (Review and Herald, 7 de junho de 1892).
+</c>

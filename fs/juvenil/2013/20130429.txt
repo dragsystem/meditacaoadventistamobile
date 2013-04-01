@@ -1,20 +1,13 @@
-Leis Malucas
-Segunda, 29 de abril
- 
-
-O prazer deles est√° na lei do Senhor. Salmo 1:2
-
-Hoje vamos viajar pelo mundo: o mundo das leis! Quer conhecer as leis mais absurdas que existem por a√≠?
-No Hava√≠, √© proibido p√¥r moedas nas orelhas. Na Gr√£-Bretanha, √© lei a proibi√ß√£o de morrer dentro do Parlamento. Em Cingapura, vender chicletes √© proibido.
-
-Nas praias italianas de Positano e Capri, pro√≠be-se usar tamancos por causa do barulho que fazem. Em Novara, a multa √© de 500 euros se algu√©m estiver com mais de uma pessoa ap√≥s as 23h30. Que tal Eraclea? L√°, o prefeito proibiu que sejam feitos castelos de areia. Al√©m disso, quem pegar conchinhas tem que pagar 250 euros!
-
-Na Austr√°lia, as leis s√£o exigentes quanto a trocar uma l√¢mpada. Mesmo que seja em casa, √© obrigat√≥rio chamar um eletricista. Tamb√©m √© ilegal passar graxa de sapato no rosto. Os bares ainda t√™m que dar comida e √°gua para o cavalo de qualquer um.
-
-Por fim, na Dinamarca est√° escrito na lei que ‚Äúningu√©m deve movimentar seu ve√≠culo por cima de algu√©m que estiver embaixo dele‚Äù. Que bom que eles avisaram! L√° no Canad√°, √© ilegal tirar curativo em p√∫blico.
-
-Confesso que √© dif√≠cil acreditar que essas leis foram aprovadas. As leis humanas podem ser bem estranhas e complicadas. Mas as leis divinas s√£o muito simples e pr√°ticas.
-
-Quando escreveu os 10 mandamentos em t√°buas de pedra (√äxodo 20), Deus sabia exatamente o que seria importante para nossa vida. Cada pedido divino que aparece ali tem um √∫nico objetivo: preservar nossa exist√™ncia de acordo com os sonhos eternos para os quais fomos criados.
-
-Neste dia, compare a estranheza das leis dos homens com a perfei√ß√£o da vontade divina. Honrar os pais, guardar o s√°bado, n√£o matar, n√£o mentir, nem invejar s√£o algumas das excelentes ordenan√ßas do Pai celestial. Ele nos ama tanto a ponto de querer nos ver vivendo para sempre a Seu lado. Ser√° √≥timo fazer o que Ele nos pede.
+<d>Segunda, 29 de abril</d>
+<t>Leis Malucas</t>
+<v>O prazer deles est· na lei do Senhor. Salmo 1:2</v>
+<c>
+Hoje vamos viajar pelo mundo: o mundo das leis! Quer conhecer as leis mais absurdas que existem por aÌ?
+No HavaÌ, È proibido pÙr moedas nas orelhas. Na Gr„-Bretanha, È lei a proibiÁ„o de morrer dentro do Parlamento. Em Cingapura, vender chicletes È proibido.
+Nas praias italianas de Positano e Capri, proÌbe-se usar tamancos por causa do barulho que fazem. Em Novara, a multa È de 500†euros se alguÈm estiver com mais de uma pessoa apÛs as 23h30. Que tal Eraclea? L·, o prefeito proibiu que sejam feitos castelos de areia. AlÈm disso, quem pegar conchinhas tem que pagar 250†euros!
+Na Austr·lia, as leis s„o exigentes quanto a trocar uma l‚mpada. Mesmo que seja em casa, È obrigatÛrio chamar um eletricista. TambÈm È ilegal passar graxa de sapato no rosto. Os bares ainda tÍm que dar comida e ·gua para o cavalo de qualquer um.
+Por fim, na Dinamarca est· escrito na lei que ìninguÈm deve movimentar seu veÌculo por cima de alguÈm que estiver embaixo deleî. Que bom que eles avisaram! L· no Canad·, È ilegal tirar curativo em p˙blico.
+Confesso que È difÌcil acreditar que essas leis foram aprovadas. As leis humanas podem ser bem estranhas e complicadas. Mas as leis divinas s„o muito simples e pr·ticas.
+Quando escreveu os 10†mandamentos em t·buas de pedra ( xodo†20), Deus sabia exatamente o que seria importante para nossa vida. Cada pedido divino que aparece ali tem um ˙nico objetivo: preservar nossa existÍncia de acordo com os sonhos eternos para os quais fomos criados.
+Neste dia, compare a estranheza das leis dos homens com a perfeiÁ„o da vontade divina. Honrar os pais, guardar o s·bado, n„o matar, n„o mentir, nem invejar s„o algumas das excelentes ordenanÁas do Pai celestial. Ele nos ama tanto a ponto de querer nos ver vivendo para sempre a Seu lado. Ser· Ûtimo fazer o que Ele nos pede.
+</c>

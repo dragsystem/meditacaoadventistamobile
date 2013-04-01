@@ -1,15 +1,10 @@
-Kingda Ka!
-Domingo, 7 de abril
- 
-
-Deem gra√ßas ao Senhor Todo-poderoso porque Ele √© bom. Jeremias 33:11
-
-Ontem conhecemos a igreja mais alta do mundo. Hoje vamos nos arrepiar com a mais alta montanha-russa do planeta. Distante uma hora e meia de Nova York, o parque Six Flags tem como sua maior atra√ß√£o a famosa Kingda Ka. Homenageando um tigre-de-bengala que fica √† entrada, ela tem uma assustadora subida vertical de 139 metros, como um edif√≠cio de 40 andares. Sua forte arrancada lan√ßa os aventureiros de 0 a 206 quil√¥metros por hora em apenas 3,5 segundos. √â como decolar em um ca√ßa de um porta-avi√µes.
-
-No topo, √© poss√≠vel ver os pr√©dios de Manhattan no horizonte. E, para acelerar ainda mais o cora√ß√£o, o carrinho para um segundo l√° em cima, dando calafrios pelo que vem a seguir. Subitamente, ent√£o, mergulha-se em queda livre em parafuso. √â como estar despencando rumo ao ch√£o. Uma guinada repentina nivela o trem com o solo. Em seguida, ainda h√° outra enorme eleva√ß√£o. Em alguns breves momentos, voc√™ tem a sensa√ß√£o inexplic√°vel de perda de gravidade, isto √©, o corpo parece que perde o peso, fazendo est√¥mago e cora√ß√£o flutuarem.
-
-Finalmente, um sistema de freios potentes reduz suavemente essa maluquice toda para, s√≥ ent√£o, voc√™ notar que se passaram 28 segundos! Quando a prote√ß√£o super-resistente se levanta, libertando os corajosos, ningu√©m sai rapidamente. Todos ainda permanecem petrificados pela adrenalina inexplic√°vel que acabaram de experimentar.
-
-Hoje √© um dia para voc√™ se aventurar. Pode ser no parque, passeando de bicicleta ou no quintal de casa. A verdade √© que viver bem inclui aproveitar cada momento pela frente. Se o Sol estiver brilhando l√° fora, n√£o se prenda ao video game. Se estiver chovendo, assista a um document√°rio da natureza. Enfim, invista em coisas intrigantes, desafiadoras e construtivas. O tempo voa.
-
-Vamos explorar este domingo ao lado de Jesus? Brincar, jogar e correr tamb√©m fazem parte da vontade dEle para sua vida. Com Deus ao nosso lado, vivemos uma aventura todo dia. E por isso ser crist√£o √© bom demais. Aproveite!
+<d>Domingo, 7 de abril</d>
+<t>Kingda Ka!</t>
+<v>Deem graÁas ao Senhor Todo-poderoso porque Ele È bom. Jeremias 33:11</v>
+<c>
+Ontem conhecemos a igreja mais alta do mundo. Hoje vamos nos arrepiar com a mais alta montanha-russa do planeta. Distante uma hora e meia de Nova York, o parque Six Flags tem como sua maior atraÁ„o a famosa Kingda Ka. Homenageando um tigre-de-bengala que fica ‡ entrada, ela tem uma assustadora subida vertical de 139†metros, como um edifÌcio de 40†andares. Sua forte arrancada lanÁa os aventureiros de 0 a 206†quilÙmetros por hora em apenas 3,5†segundos. … como decolar em um caÁa de um porta-aviıes.
+No topo, È possÌvel ver os prÈdios de Manhattan no horizonte. E, para acelerar ainda mais o coraÁ„o, o carrinho para um segundo l· em cima, dando calafrios pelo que vem a seguir. Subitamente, ent„o, mergulha-se em queda livre em parafuso. … como estar despencando rumo ao ch„o. Uma guinada repentina nivela o trem com o solo. Em seguida, ainda h· outra enorme elevaÁ„o. Em alguns breves momentos, vocÍ tem a sensaÁ„o inexplic·vel de perda de gravidade, isto È, o corpo parece que perde o peso, fazendo estÙmago e coraÁ„o flutuarem.
+Finalmente, um sistema de freios potentes reduz suavemente essa maluquice toda para, sÛ ent„o, vocÍ notar que se passaram 28 segundos! Quando a proteÁ„o super-resistente se levanta, libertando os corajosos, ninguÈm sai rapidamente. Todos ainda permanecem petrificados pela adrenalina inexplic·vel que acabaram de experimentar.
+Hoje È um dia para vocÍ se aventurar. Pode ser no parque, passeando de bicicleta ou no quintal de casa. A verdade È que viver bem inclui aproveitar cada momento pela frente. Se o Sol estiver brilhando l· fora, n„o se prenda ao video game. Se estiver chovendo, assista a um document·rio da natureza. Enfim, invista em coisas intrigantes, desafiadoras e construtivas. O tempo voa.
+Vamos explorar este domingo ao lado de Jesus? Brincar, jogar e correr tambÈm fazem parte da vontade dEle para sua vida. Com Deus ao nosso lado, vivemos uma aventura todo dia. E por isso ser crist„o È bom demais. Aproveite!
+</c>

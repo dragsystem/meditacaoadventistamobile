@@ -1,13 +1,9 @@
-NÃ£o se Sinta em Casa!
-TerÃ§a, 30 de abril
- 
-
-Deus prometeu, e nÃ³s estamos esperando um novo cÃ©u e uma nova terra. 2 Pedro 3:13
- 
-Eu estava cansado por causa de um fim de semana daqueles. Agradeci Ã  igreja pelo convite, mas nÃ£o por me colocarem no voo das duas da manhÃ£! O trajeto duraria trÃªs horas. E a segunda-feira de trabalho logo chegaria implacÃ¡vel. Tentei manter o bom humor atÃ© descobrir meu assento: 32B! Ãšltima fileira, sem reclinar, grudada no banheiro. Para piorar, na poltrona do meio, entre a janela e o corredor.
-
-Mas poderia ficar pior. Voo da madrugada tem de tudo, inclusive engravatados com odor de cachaÃ§a. Um desses, cheirando a pinga, apontou para a janela ao meu lado. Sentou-se e abriu uma boca de jacarÃ©, roncando com o maior bafo. Torci para que o outro assento estivesse livre. PorÃ©m, o aviÃ£o estava lotado. Foi quando o Sr. Golias entrou. O olhar de susto dos comissÃ¡rios nÃ£o disfarÃ§ava: ele era imenso. Apertado pelo corredor, veio em minha direÃ§Ã£o. Supliquei: â€œPor favor, nÃ£o!â€ Mas a poltrona vazia ao meu lado era exatamente o lugar dele. O homem encheria trÃªs poltronas, mas teria que se entalar em uma sÃ³, bem ao me lado, ou melhor, quase em cima de mim. Espremido entre o bÃªbado e o gigante, tentei nÃ£o surtar: â€œSÃ£o sÃ³ 180 minutosâ€, pensei. EntÃ£o o comandante falou: â€œSenhores passageiros, bem-vindos ao voo 197... Tenham uma boa viagem e sintam-se em casa!â€
-
-Quase chamei a comissÃ¡ria de bordo para pedir uma pantufa e um roupÃ£o de banho! Como poderia sentir-me em casa naquelas condiÃ§Ãµes? Penso que isso me ensinou uma liÃ§Ã£o espiritual. O fato Ã© que nÃ£o importam as circunstÃ¢ncias, nunca devemos nos sentir em casa, neste mundo marcado pelo pecado.
-
-AtÃ© mesmo se vocÃª voar de primeira classe, seu maior desejo serÃ¡ voltar para casa e rever seus queridos, poder abraÃ§Ã¡-los e estar com eles. Por isso, nem as melhores coisas deste mundo podem ser comparadas ao que espera por nÃ³s no lar eterno. Portanto, lembre-se: jamais um passageiro se sentirÃ¡ em casa enquanto estiver de viagem. O verdadeiro Lar Ã© nosso destino final. Ali estarÃ¡ Jesus, nos esperando de braÃ§os abertos!
+<d>Terça, 30 de abril</d>
+<t>Não se Sinta em Casa!</t>
+<v>Deus prometeu, e nós estamos esperando um novo céu e uma nova terra. 2 Pedro 3:13</v>
+<c>
+Eu estava cansado por causa de um fim de semana daqueles. Agradeci à igreja pelo convite, mas não por me colocarem no voo das duas da manhã! O trajeto duraria três horas. E a segunda-feira de trabalho logo chegaria implacável. Tentei manter o bom humor até descobrir meu assento: 32B! Última fileira, sem reclinar, grudada no banheiro. Para piorar, na poltrona do meio, entre a janela e o corredor.
+Mas poderia ficar pior. Voo da madrugada tem de tudo, inclusive engravatados com odor de cachaça. Um desses, cheirando a pinga, apontou para a janela ao meu lado. Sentou-se e abriu uma boca de jacaré, roncando com o maior bafo. Torci para que o outro assento estivesse livre. Porém, o avião estava lotado. Foi quando o Sr. Golias entrou. O olhar de susto dos comissários não disfarçava: ele era imenso. Apertado pelo corredor, veio em minha direção. Supliquei: “Por favor, não!” Mas a poltrona vazia ao meu lado era exatamente o lugar dele. O homem encheria três poltronas, mas teria que se entalar em uma só, bem ao me lado, ou melhor, quase em cima de mim. Espremido entre o bêbado e o gigante, tentei não surtar: “São só 180 minutos”, pensei. Então o comandante falou: “Senhores passageiros, bem-vindos ao voo 197... Tenham uma boa viagem e sintam-se em casa!”
+Quase chamei a comissária de bordo para pedir uma pantufa e um roupão de banho! Como poderia sentir-me em casa naquelas condições? Penso que isso me ensinou uma lição espiritual. O fato é que não importam as circunstâncias, nunca devemos nos sentir em casa, neste mundo marcado pelo pecado.
+Até mesmo se você voar de primeira classe, seu maior desejo será voltar para casa e rever seus queridos, poder abraçá-los e estar com eles. Por isso, nem as melhores coisas deste mundo podem ser comparadas ao que espera por nós no lar eterno. Portanto, lembre-se: jamais um passageiro se sentirá em casa enquanto estiver de viagem. O verdadeiro Lar é nosso destino final. Ali estará Jesus, nos esperando de braços abertos!
+</c>

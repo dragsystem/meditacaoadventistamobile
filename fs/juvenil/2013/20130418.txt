@@ -1,17 +1,11 @@
-Quase ParaÃ­so
-Quinta, 18 de abril
- 
-
-O que ninguÃ©m viu nem ouviu [...] foi isso o que Deus preparou para aqueles que O amam. 1 CorÃ­ntios 2:9
-
-Se houvesse uma seleÃ§Ã£o dos lugares mais encantadores da Terra, com certeza o nome Perito Moreno estaria lÃ¡. Achei exagerado quando me falaram dele, mas Ã© sÃ³ dar uma olhada para vocÃª se admirar.
-
-Imagine encontrar em uma sÃ³ paisagem os seguintes elementos: um rio cristalino, uma vegetaÃ§Ã£o superverde, bosques carregados de aves, montanhas imponentes com neve escorregando preguiÃ§osamente de seus cumes, um cÃ©u azul incrÃ­vel, nuvens branquÃ­ssimas flutuando sob o Sol a pino e as margens do lago com areia e pedrinhas claras umedecidas pelo movimento suave das pequenas ondas.
-
-Como se nÃ£o bastasse, vocÃª tambÃ©m encontra um colossal bloco de gelo azul-leitoso com bordas fatiadas parecendo um enorme bolo de glacÃª com 25 andares de altura. Visualizou a cena? Ã‰ simplesmente deslumbrante! E fica na AmÃ©rica do Sul: no Parque Nacional Los Glaciares, na PatagÃ´nia, em territÃ³rio argentino. Esse imenso pedaÃ§o de gelo azulado mede 30 quilÃ´metros de comprimento por cinco quilÃ´metros de largura. Ainda mergulha para baixo da Ã¡gua o correspondente a 35 andares de um prÃ©dio. Ã‰ a terceira maior reserva de Ã¡gua doce do mundo.
-
-Usar a expressÃ£o â€œparaÃ­soâ€ pode ser algo irreal nesta Terra manchada pelo pecado, mas nÃ£o duvido de que â€œquase paraÃ­soâ€ faÃ§a justiÃ§a a esse cantinho fascinante desenhado por Deus. Quando vejo coisas assim, convenÃ§o-me mais e mais da inimaginÃ¡vel criatividade divina controlando o Universo.
-
-O Criador tem um incrÃ­vel bom gosto a ponto de nos cativar com paisagens dignas do Inventor da Beleza. E este mesmo Deus criou vocÃª e eu, colocando em nÃ³s Sua prÃ³pria imagem. Isso Ã© um grande privilÃ©gio!
-
-DeverÃ­amos ser felizes e agradecidos por vivermos como obras-primas da criaÃ§Ã£o. Temos uma origem celestial. Ã‰ para lÃ¡ que voltaremos em breve. Aqui na Terra, os mais lindos lugares serÃ£o sempre um quase paraÃ­so. Por isso, neste dia, viaje por meio da fÃ© rumo Ã quele sonho maior: quando o verdadeiro ParaÃ­so abrirÃ¡ seus portais para cada um de nÃ³s. SerÃ¡ lindo demais!
+<d>Quinta, 18 de abril</d>
+<t>Quase Paraíso</t>
+<v>O que ninguém viu nem ouviu [...] foi isso o que Deus preparou para aqueles que O amam. 1 Coríntios 2:9</v>
+<c>
+Se houvesse uma seleção dos lugares mais encantadores da Terra, com certeza o nome Perito Moreno estaria lá. Achei exagerado quando me falaram dele, mas é só dar uma olhada para você se admirar.
+Imagine encontrar em uma só paisagem os seguintes elementos: um rio cristalino, uma vegetação superverde, bosques carregados de aves, montanhas imponentes com neve escorregando preguiçosamente de seus cumes, um céu azul incrível, nuvens branquíssimas flutuando sob o Sol a pino e as margens do lago com areia e pedrinhas claras umedecidas pelo movimento suave das pequenas ondas.
+Como se não bastasse, você também encontra um colossal bloco de gelo azul-leitoso com bordas fatiadas parecendo um enorme bolo de glacê com 25 andares de altura. Visualizou a cena? É simplesmente deslumbrante! E fica na América do Sul: no Parque Nacional Los Glaciares, na Patagônia, em território argentino. Esse imenso pedaço de gelo azulado mede 30 quilômetros de comprimento por cinco quilômetros de largura. Ainda mergulha para baixo da água o correspondente a 35 andares de um prédio. É a terceira maior reserva de água doce do mundo.
+Usar a expressão “paraíso” pode ser algo irreal nesta Terra manchada pelo pecado, mas não duvido de que “quase paraíso” faça justiça a esse cantinho fascinante desenhado por Deus. Quando vejo coisas assim, convenço-me mais e mais da inimaginável criatividade divina controlando o Universo.
+O Criador tem um incrível bom gosto a ponto de nos cativar com paisagens dignas do Inventor da Beleza. E este mesmo Deus criou você e eu, colocando em nós Sua própria imagem. Isso é um grande privilégio!
+Deveríamos ser felizes e agradecidos por vivermos como obras-primas da criação. Temos uma origem celestial. É para lá que voltaremos em breve. Aqui na Terra, os mais lindos lugares serão sempre um quase paraíso. Por isso, neste dia, viaje por meio da fé rumo àquele sonho maior: quando o verdadeiro Paraíso abrirá seus portais para cada um de nós. Será lindo demais!
+</c>

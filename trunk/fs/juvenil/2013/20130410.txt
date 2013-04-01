@@ -1,15 +1,10 @@
-Todo Mundo Usa!
-Quarta, 10 de abril
- 
-
-Eu me faÃ§o de mudo e nÃ£o falo. Salmo 38:13
-
-O mundo conhece os Estados Unidos pelo sanduÃ­che. Os franceses pelo croissant. A Inglaterra tem o chÃ¡. Os japoneses sÃ£o os reis do sushi. HÃ¡ as pizzas italianas, sem contar os chocolates belgas. No Brasil, temos o aÃ§aÃ­ e o guaranÃ¡, mas uma forte garota-propaganda do paÃ­s surgiu nos Ãºltimos anos nÃ£o na gastronomia, mas na moda: as sandÃ¡lias Havaianas!
-
-Isso mesmo. O produto brasileiro mais admirado no mundo Ã© um chinelo de dedo, acredita? LanÃ§adas em 1962, e inspiradas nas sandÃ¡lias japonesas, as Havaianas ganharam os pÃ©s de quem queria durabilidade e conforto. Mas elas eram vendidas aos montÃµes em supermercados e feirÃµes populares. Eram o calÃ§ado para quem nÃ£o queria gastar nem 10 reais. Mas em 1994 aquelas tiras de borracha ressurgiram como um sapatinho de cristal. A propaganda mudou a cabeÃ§a e os pÃ©s do povo, que passou a usÃ¡-las como artigo de charme.
-
-VocÃª sabia que por aÃ­ sÃ£o vendidas Havaianas de atÃ© 58 mil reais? E tem modelos cravejados de cristais nas lojas mais requintadas do mundo. VocÃª imaginou que um simples chinelo venderia 162 milhÃµes de pares por ano com milhares de cores e formatos diferentes? Hoje, celebridades, autoridades e gente muito rica tambÃ©m aderiram Ã s nossas singelas sandÃ¡lias. E como isso aconteceu?
-
-Uma campanha fortÃ­ssima de propaganda com o tÃ­tulo â€œtodo mundo usaâ€ chamou a atenÃ§Ã£o de muita gente. De lÃ¡ para cÃ¡, um falou para o outro, alguÃ©m viu alguÃ©m usando e, de repente, o Brasil ficou conhecido como paÃ­s das mais famosas sandÃ¡lias.
-
-Como cristÃ£o, que anÃºncio vocÃª tem feito da volta de Jesus? Muitos nÃ£o escutaram sobre Deus porque os que deveriam falar ficaram mudos. Que tal fazer deste dia uma campanha de propaganda do amor de Cristo? Seus amigos e familiares precisam saber da melhor mensagem que existe: o amor de Deus. E, se vocÃª fizer sua parte, juntos surpreenderemos o mundo com a esperanÃ§a da Nova Terra!
+<d>Quarta, 10 de abril</d>
+<t>Todo Mundo Usa!</t>
+<v>Eu me faço de mudo e não falo. Salmo 38:13</v>
+<c>
+O mundo conhece os Estados Unidos pelo sanduíche. Os franceses pelo croissant. A Inglaterra tem o chá. Os japoneses são os reis do sushi. Há as pizzas italianas, sem contar os chocolates belgas. No Brasil, temos o açaí e o guaraná, mas uma forte garota-propaganda do país surgiu nos últimos anos não na gastronomia, mas na moda: as sandálias Havaianas!
+Isso mesmo. O produto brasileiro mais admirado no mundo é um chinelo de dedo, acredita? Lançadas em 1962, e inspiradas nas sandálias japonesas, as Havaianas ganharam os pés de quem queria durabilidade e conforto. Mas elas eram vendidas aos montões em supermercados e feirões populares. Eram o calçado para quem não queria gastar nem 10 reais. Mas em 1994 aquelas tiras de borracha ressurgiram como um sapatinho de cristal. A propaganda mudou a cabeça e os pés do povo, que passou a usá-las como artigo de charme.
+Você sabia que por aí são vendidas Havaianas de até 58 mil reais? E tem modelos cravejados de cristais nas lojas mais requintadas do mundo. Você imaginou que um simples chinelo venderia 162 milhões de pares por ano com milhares de cores e formatos diferentes? Hoje, celebridades, autoridades e gente muito rica também aderiram às nossas singelas sandálias. E como isso aconteceu?
+Uma campanha fortíssima de propaganda com o título “todo mundo usa” chamou a atenção de muita gente. De lá para cá, um falou para o outro, alguém viu alguém usando e, de repente, o Brasil ficou conhecido como país das mais famosas sandálias.
+Como cristão, que anúncio você tem feito da volta de Jesus? Muitos não escutaram sobre Deus porque os que deveriam falar ficaram mudos. Que tal fazer deste dia uma campanha de propaganda do amor de Cristo? Seus amigos e familiares precisam saber da melhor mensagem que existe: o amor de Deus. E, se você fizer sua parte, juntos surpreenderemos o mundo com a esperança da Nova Terra!
+</c>

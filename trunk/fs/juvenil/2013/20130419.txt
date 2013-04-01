@@ -1,18 +1,11 @@
-Meia-Noite: Hora do Sol!
-Sexta, 19 de abril
- 
-
-Mas, para voc√™s que Me temem, a Minha salva√ß√£o brilhar√° como o Sol. Malaquias 4:2
-
-Como dizem nossos pais, ‚Äúmeia-noite √© hora de crian√ßa estar na cama‚Äù, certo? Nesse hor√°rio, o Sol j√° se p√¥s h√° muito tempo. Isso acontece em quase todos os lugares.
-
-Por√©m, existem algumas localidades em que meia-noite √© hora do Sol brilhar poderosamente no C√©u, voc√™ acreditaria? Ent√£o arrume sua mochila e pegue seus √≥culos escuros. Vamos viajar rumo ao famos√≠ssimo e intrigante Sol da meia-noite! Voc√™ est√° acordado?
-
-Como a Terra circula ao redor do Sol, com seu eixo ligeiramente inclinado, alguns pa√≠ses do hemisf√©rio norte experimentam um ver√£o bem diferente. L√°, quanto mais pr√≥ximos estiverem do C√≠rculo Polar √Årtico, mais tempo o Sol ficar√° sem se p√¥r. Isso mesmo! Nos extremos dos Estados Unidos, Canad√°, Finl√¢ndia, R√∫ssia e outras na√ß√µes, um dia visualmente claro pode durar v√°rios dias.
-
-Na Noruega, em uma cidade chamada Svalbard, exatamente hoje come√ßa uma longa manh√£ de Sol que s√≥ vai terminar em 23 de agosto! Sim, s√£o mais de 120 noites com o Sol brilhando sem parar. Seus habitantes precisam olhar mais para o rel√≥gio do que para o C√©u. E as casas s√£o lacradas com cortinas bloqueadoras de luz para eles conseguirem dormir. Deve ser divertido ver ‚Äúum meio-dia em plena meia-noite‚Äù, n√£o √© mesmo?
-
-Quando a B√≠blia nos diz que Cristo √© o Sol da Justi√ßa, √© exatamente este tipo de Sol l√° do norte da Noruega que eu imagino. Um brilho que n√£o acaba nunca. Uma noite que nunca escurece de verdade. Jesus ilumina tudo e todos, o tempo inteiro. Ningu√©m pode se esconder dessa Luz salvadora e divina que acompanha todos os passos da vida.
-
-Para alguns, saber que a justi√ßa de Deus ilumina todos os cantos escuros e pecaminosos da exist√™ncia pode trazer preocupa√ß√£o. Mas para os crist√£os isso tem que ser visto como uma ben√ß√£o. Mesmo que Jesus saiba dos nossos pecados, Ele morreu para nos perdoar e nos livrar da puni√ß√£o. O Sol da Justi√ßa, ao mesmo tempo que revela o mal, salva o pecador arrependido. Ainda que a noite surja na janela do seu quarto, os raios de Cristo continuar√£o brilhando sobre voc√™.
- 
+<d>Sexta, 19 de abril</d>
+<t>Meia-Noite: Hora do Sol!</t>
+<v>Mas, para vocÍs que Me temem, a Minha salvaÁ„o brilhar· como o Sol. Malaquias†4:2</v>
+<c>
+Como dizem nossos pais, ìmeia-noite È hora de crianÁa estar na camaî, certo? Nesse hor·rio, o Sol j· se pÙs h· muito tempo. Isso acontece em quase todos os lugares.
+PorÈm, existem algumas localidades em que meia-noite È hora do Sol brilhar poderosamente no CÈu, vocÍ acreditaria? Ent„o arrume sua mochila e pegue seus Ûculos escuros. Vamos viajar rumo ao famosÌssimo e intrigante Sol da meia-noite! VocÍ est· acordado?
+Como a Terra circula ao redor do Sol, com seu eixo ligeiramente inclinado, alguns paÌses do hemisfÈrio norte experimentam um ver„o bem diferente. L·, quanto mais prÛximos estiverem do CÌrculo Polar ¡rtico, mais tempo o Sol ficar· sem se pÙr. Isso mesmo! Nos extremos dos Estados Unidos, Canad·, Finl‚ndia, R˙ssia e outras naÁıes, um dia visualmente claro pode durar v·rios dias.
+Na Noruega, em uma cidade chamada Svalbard, exatamente hoje comeÁa uma longa manh„ de Sol que sÛ vai terminar em 23 de agosto! Sim, s„o mais de 120†noites com o Sol brilhando sem parar. Seus habitantes precisam olhar mais para o relÛgio do que para o CÈu. E as casas s„o lacradas com cortinas bloqueadoras de luz para eles conseguirem dormir. Deve ser divertido ver ìum meio-dia em plena meia-noiteî, n„o È mesmo?
+Quando a BÌblia nos diz que Cristo È o Sol da JustiÁa, È exatamente este tipo de Sol l· do norte da Noruega que eu imagino. Um brilho que n„o acaba nunca. Uma noite que nunca escurece de verdade. Jesus ilumina tudo e todos, o tempo inteiro. NinguÈm pode se esconder dessa Luz salvadora e divina que acompanha todos os passos da vida.
+Para alguns, saber que a justiÁa de Deus ilumina todos os cantos escuros e pecaminosos da existÍncia pode trazer preocupaÁ„o. Mas para os crist„os isso tem que ser visto como uma benÁ„o. Mesmo que Jesus saiba dos nossos pecados, Ele morreu para nos perdoar e nos livrar da puniÁ„o. O Sol da JustiÁa, ao mesmo tempo que revela o mal, salva o pecador arrependido. Ainda que a noite surja na janela do seu quarto, os raios de Cristo continuar„o brilhando sobre vocÍ.
+</c>

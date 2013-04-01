@@ -1,15 +1,10 @@
-Capela dos Dez Mandamentos
-S√°bado, 13 de abril
- 
- 
-Foram esses os mandamentos que o Senhor Deus deu a Mois√©s, no Monte Sinai. Lev√≠tico 27:34
-
-Para mim, um dos momentos mais incr√≠veis da B√≠blia √© a hist√≥ria eletrizante de Mois√©s no Monte Sinai. Foi exatamente l√° que o pr√≥prio Deus escreveu, em t√°buas de pedra, Sua vontade soberana para cada um de n√≥s. Terremotos, explos√µes, fuma√ßas e redemoinhos revelaram a gl√≥ria de Deus. E, na ocasi√£o em que o grande profeta Mois√©s desceu com as t√°buas dos Dez Mandamentos, sua face parecia pintada de tinta fosforescente. Algo inacredit√°vel!
-
-Hoje, n√£o se sabe com exatid√£o onde se localiza o famos√≠ssimo Monte Sinai. Mas, no Egito, existe uma pen√≠nsula cujo lado sul parece abrigar um lugar muito parecido com o que √© descrito na B√≠blia. Para l√° viajam milhares de pessoas todos os anos. Elas tentam reviver, mesmo que com uma p√°lida sensa√ß√£o, a experi√™ncia de Mois√©s. Uma escada com mais de quatro mil degraus leva os corajosos e resistentes turistas ao topo da montanha, com 2.288 metros de altura. O mais fant√°stico √© madrugar na trilha para testemunhar o amanhecer no cume do Sinai. √â inesquec√≠vel!
-
-Sabe o que foi constru√≠do bem l√° em cima? Uma capela. A regi√£o √© considerada sagrada tanto pelo cristianismo quanto pelo juda√≠smo e o islamismo. Quem chega ao topo n√£o consegue se libertar de uma imponente sensa√ß√£o de estar na presen√ßa do Criador. As rochas envelhecidas, os picos pontiagudos, o vento uivando e os raios de sol desenhando formas majestosas pelas pedras, tudo isso provoca no viajante um grande respeito perante Aquele que diz: ‚ÄúEu Sou.‚Äù
-
-Neste s√°bado, provavelmente voc√™ esteja bem distante da capela no cume do Sinai. No entanto, n√£o se afaste das orienta√ß√µes de Deus para sua vida. Seus Dez Mandamentos s√£o declara√ß√µes m√°ximas do amor divino. Portanto, n√£o perca a oportunidade de obedecer ao Todo-Poderoso do Universo. Ele s√≥ quer o seu bem.
-
-Um dia ser√° bom demais ouvir do pr√≥prio Mois√©s o que realmente aconteceu naquela montanha efervescente. Enquanto isso n√£o acontece, acredite que Deus sempre sabe o que √© melhor. Fazendo a vontade dEle, seu rosto resplandecer√°.
+<d>S·bado, 13 de abril</d>
+<t>Capela dos Dez Mandamentos</t>
+<v>Foram esses os mandamentos que o Senhor Deus deu a MoisÈs, no Monte Sinai. LevÌtico 27:34</v>
+<c>
+Para mim, um dos momentos mais incrÌveis da BÌblia È a histÛria eletrizante de MoisÈs no Monte Sinai. Foi exatamente l· que o prÛprio Deus escreveu, em t·buas de pedra, Sua vontade soberana para cada um de nÛs. Terremotos, explosıes, fumaÁas e redemoinhos revelaram a glÛria de Deus. E, na ocasi„o em que o grande profeta MoisÈs desceu com as t·buas dos Dez Mandamentos, sua face parecia pintada de tinta fosforescente. Algo inacredit·vel!
+Hoje, n„o se sabe com exatid„o onde se localiza o famosÌssimo Monte Sinai. Mas, no Egito, existe uma penÌnsula cujo lado sul parece abrigar um lugar muito parecido com o que È descrito na BÌblia. Para l· viajam milhares de pessoas todos os anos. Elas tentam reviver, mesmo que com uma p·lida sensaÁ„o, a experiÍncia de MoisÈs. Uma escada com mais de quatro mil degraus leva os corajosos e resistentes turistas ao topo da montanha, com 2.288 metros de altura. O mais fant·stico È madrugar na trilha para testemunhar o amanhecer no cume do Sinai. … inesquecÌvel!
+Sabe o que foi construÌdo bem l· em cima? Uma capela. A regi„o È considerada sagrada tanto pelo cristianismo quanto pelo judaÌsmo e o islamismo. Quem chega ao topo n„o consegue se libertar de uma imponente sensaÁ„o de estar na presenÁa do Criador. As rochas envelhecidas, os picos pontiagudos, o vento uivando e os raios de sol desenhando formas majestosas pelas pedras, tudo isso provoca no viajante um grande respeito perante Aquele que diz: ìEu Sou.î
+Neste s·bado, provavelmente vocÍ esteja bem distante da capela no cume do Sinai. No entanto, n„o se afaste das orientaÁıes de Deus para sua vida. Seus Dez Mandamentos s„o declaraÁıes m·ximas do amor divino. Portanto, n„o perca a oportunidade de obedecer ao Todo-Poderoso do Universo. Ele sÛ quer o seu bem.
+Um dia ser· bom demais ouvir do prÛprio MoisÈs o que realmente aconteceu naquela montanha efervescente. Enquanto isso n„o acontece, acredite que Deus sempre sabe o que È melhor. Fazendo a vontade dEle, seu rosto resplandecer·.
+</c>

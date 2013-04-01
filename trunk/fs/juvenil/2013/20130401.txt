@@ -1,16 +1,11 @@
-MamÃ£e-Bolsa
-Segunda, 1Âº de abril
- 
- 
-Meu filho, escute o que o seu pai ensina. ProvÃ©rbios 1:8
-
-Gire seu globo terrestre. NÃ³s vamos para a AustrÃ¡lia. Essa imensa ilha Ã© o sexto maior paÃ­s do mundo. Ela abriga lugares incrÃ­veis e
-animais para lÃ¡ de exÃ³ticos. Entre as raridades, estÃ£o coalas, arraias, escorpiÃµes, aranhas monstruosas e as cobras mais venenosas do planeta. PorÃ©m, foi outro animal curiosÃ­ssimo que virou sÃ­mbolo desse lugar distante: o canguru.
-
-Chegando ao tamanho de uma pessoa, e com patas cinco vezes maiores que o pÃ© humano, o canguru Ã© um marsupial dÃ³cil e de pelo cinza macio. Seu pulo chega a oito metros de distÃ¢ncia e alcanÃ§a quase dois metros de altura. Quando salta para valer, atinge 60 quilÃ´metros por hora. Mas sua fama vem da bolsa de pele, chamada marsÃºpio. Ali as fÃªmeas carregam os filhotes. Os bebÃªs cangurus nascem do tamanho de uma cereja e crescem protegidos dentro dessa â€œsacolaâ€ atÃ© ficarem fortes para dar seus prÃ³prios pulos. Sabia que eles ficam um ano nesse confortÃ¡vel habitat da mamÃ£e-bolsa? Depois jÃ¡ podem saltar pelo mundo.
-
-Parou para pensar em quÃ£o importante Ã© ter alguÃ©m cuidando da gente? A vida Ã© marcada pela importante fase de crescimento e amadurecimento. Para isso, Deus colocou os pais, amigos mais velhos e professores em nosso caminho a fim de compartilharem com a gente suas experiÃªncias de â€œviagens pela vidaâ€. Gosto de refletir sobre o carinho e a atenÃ§Ã£o recebidos dos meus mentores, aqueles que me ajudaram a ser o que sou hoje.
-
-Se seus pais estÃ£o pertinho de vocÃª, aproveite a chance. O tempo voa. Logo chegarÃ¡ a hora de sair da â€œbolsa familiarâ€ e pular para o mundo adulto. Hoje, tenho saudades dessa bela fase da vida. Por isso, no relacionamento com seus pais, aproveite os passeios, ouÃ§a os conselhos, beije-os e dÃª-lhes um abraÃ§o de tirar o fÃ´lego. Acredite no quanto eles amam vocÃª.
-
-NÃ£o hÃ¡ nada melhor que contar com Jesus e com nossa famÃ­lia nos ajudando a conquistar novas vitÃ³rias. Um dia, vocÃª poderÃ¡ recompensÃ¡-los com a inteligÃªncia, forÃ§a e maturidade plantadas hoje no seu coraÃ§Ã£o. Aproveite o tempo enquanto vocÃª couber dentro da bolsa.
+<d>Segunda, 1º de abril</d>
+<t>Mamãe-Bolsa</t>
+<v>Meu filho, escute o que o seu pai ensina. Provérbios 1:8</v>
+<c>
+Gire seu globo terrestre. Nós vamos para a Austrália. Essa imensa ilha é o sexto maior país do mundo. Ela abriga lugares incríveis e
+animais para lá de exóticos. Entre as raridades, estão coalas, arraias, escorpiões, aranhas monstruosas e as cobras mais venenosas do planeta. Porém, foi outro animal curiosíssimo que virou símbolo desse lugar distante: o canguru.
+Chegando ao tamanho de uma pessoa, e com patas cinco vezes maiores que o pé humano, o canguru é um marsupial dócil e de pelo cinza macio. Seu pulo chega a oito metros de distância e alcança quase dois metros de altura. Quando salta para valer, atinge 60 quilômetros por hora. Mas sua fama vem da bolsa de pele, chamada marsúpio. Ali as fêmeas carregam os filhotes. Os bebês cangurus nascem do tamanho de uma cereja e crescem protegidos dentro dessa “sacola” até ficarem fortes para dar seus próprios pulos. Sabia que eles ficam um ano nesse confortável habitat da mamãe-bolsa? Depois já podem saltar pelo mundo.
+Parou para pensar em quão importante é ter alguém cuidando da gente? A vida é marcada pela importante fase de crescimento e amadurecimento. Para isso, Deus colocou os pais, amigos mais velhos e professores em nosso caminho a fim de compartilharem com a gente suas experiências de “viagens pela vida”. Gosto de refletir sobre o carinho e a atenção recebidos dos meus mentores, aqueles que me ajudaram a ser o que sou hoje.
+Se seus pais estão pertinho de você, aproveite a chance. O tempo voa. Logo chegará a hora de sair da “bolsa familiar” e pular para o mundo adulto. Hoje, tenho saudades dessa bela fase da vida. Por isso, no relacionamento com seus pais, aproveite os passeios, ouça os conselhos, beije-os e dê-lhes um abraço de tirar o fôlego. Acredite no quanto eles amam você.
+Não há nada melhor que contar com Jesus e com nossa família nos ajudando a conquistar novas vitórias. Um dia, você poderá recompensá-los com a inteligência, força e maturidade plantadas hoje no seu coração. Aproveite o tempo enquanto você couber dentro da bolsa.
+</c>

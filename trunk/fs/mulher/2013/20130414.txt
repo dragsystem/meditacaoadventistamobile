@@ -1,19 +1,12 @@
-LanÃ§ando seu pÃ£o
-Domingo, 14 de abril
- 
-
-Atire o seu pÃ£o sobre as Ã¡guas, e depois de muitos dias vocÃª tornarÃ¡ a encontrÃ¡-lo. Eclesiastes 11:1
- 
-Para minha mÃ£e viÃºva, manter-se em forma significava fazer uma caminhada rÃ¡pida pela vizinhanÃ§a. Os benefÃ­cios dessa atividade diÃ¡ria nÃ£o sÃ³ a ajudavam fisicamente, mas permitiam que ela conhecesse os vizinhos em seu bairro de baixa renda. Sua atitude amistosa, bondosa e feliz, e o sorriso agradÃ¡vel, ajudaram a tornar pelo menos uma famÃ­lia receptiva aos livros e panfletos religiosos que ela deixava Ã  porta dos vizinhos em suas caminhadas.
-
-A famÃ­lia Wayman nÃ£o andava frequentando a igreja. O pai, homem religioso (a mÃ£e nÃ£o era), gostava de ler acerca de vÃ¡rias denominaÃ§Ãµes. As informaÃ§Ãµes no folheto que mamÃ£e lhe deixara a respeito de uma sÃ©rie evangelÃ­stica lhe atraÃ­ram a atenÃ§Ã£o.
-
-Depois de assistir a duas reuniÃµes, o Sr. Wayman ficou muito interessado. Seu interesse cativou a atenÃ§Ã£o das duas filhas, Vinita, de 15 anos, e Lurlene, de 9. A mÃ£e se encarregava sempre de providenciar o transporte para eles. Quando foi feito o apelo para o batismo, os trÃªs foram batizados. Uniram-se Ã  vida social da igreja, e os membros fizeram com que se sentissem muito bem recebidos.
-
-O que torna esta histÃ³ria especial Ã© que, de um inÃ­cio humilde, num bairro de baixa renda, e do simples ato de uma mÃ£e viÃºva partilhar infomaÃ§Ãµes religiosas e espirituais, o testemunho continua vivo, de um modo singular.
-
-O pai Wayman e a filha Lurlene permaneceram em casa, desfrutando a comunhÃ£o da igreja local, enquanto Vinita saiu para o ensino mÃ©dio num internato cristÃ£o, e depois para a faculdade. Uma vantagem a mais para a educaÃ§Ã£o de Vinita foi ter estudado no exterior por um ano. AlÃ©m disso, ela conseguiu um esposo cristÃ£o especial, e agora tem dois garotos maravilhosos.
-
-Durante os Ãºltimos 26 anos, Vinita tem prestado uma notÃ¡vel contribuiÃ§Ã£o Ã  educaÃ§Ã£o cristÃ£, por meio de seus talentos excepcionais. Ela diz: â€œSinto-me abenÃ§oada pela vida abundante que me foi concedida, e isso nÃ£o teria sido possÃ­vel se nÃ£o fosse pela disposiÃ§Ã£o da sua mÃ£e em relacionar-se com os vizinhos. Mal posso esperar para vÃª-la no CÃ©u, admirar as estrelas da sua coroa e dar-lhe outro abraÃ§o.â€
-
+<d>Domingo, 14 de abril</d>
+<t>Lançando seu pão</t>
+<v>Atire o seu pão sobre as águas, e depois de muitos dias você tornará a encontrá-lo. Eclesiastes 11:1</v>
+<c>
+Para minha mãe viúva, manter-se em forma significava fazer uma caminhada rápida pela vizinhança. Os benefícios dessa atividade diária não só a ajudavam fisicamente, mas permitiam que ela conhecesse os vizinhos em seu bairro de baixa renda. Sua atitude amistosa, bondosa e feliz, e o sorriso agradável, ajudaram a tornar pelo menos uma família receptiva aos livros e panfletos religiosos que ela deixava à porta dos vizinhos em suas caminhadas.
+A família Wayman não andava frequentando a igreja. O pai, homem religioso (a mãe não era), gostava de ler acerca de várias denominações. As informações no folheto que mamãe lhe deixara a respeito de uma série evangelística lhe atraíram a atenção.
+Depois de assistir a duas reuniões, o Sr. Wayman ficou muito interessado. Seu interesse cativou a atenção das duas filhas, Vinita, de 15 anos, e Lurlene, de 9. A mãe se encarregava sempre de providenciar o transporte para eles. Quando foi feito o apelo para o batismo, os três foram batizados. Uniram-se à vida social da igreja, e os membros fizeram com que se sentissem muito bem recebidos.
+O que torna esta história especial é que, de um início humilde, num bairro de baixa renda, e do simples ato de uma mãe viúva partilhar infomações religiosas e espirituais, o testemunho continua vivo, de um modo singular.
+O pai Wayman e a filha Lurlene permaneceram em casa, desfrutando a comunhão da igreja local, enquanto Vinita saiu para o ensino médio num internato cristão, e depois para a faculdade. Uma vantagem a mais para a educação de Vinita foi ter estudado no exterior por um ano. Além disso, ela conseguiu um esposo cristão especial, e agora tem dois garotos maravilhosos.
+Durante os últimos 26 anos, Vinita tem prestado uma notável contribuição à educação cristã, por meio de seus talentos excepcionais. Ela diz: “Sinto-me abençoada pela vida abundante que me foi concedida, e isso não teria sido possível se não fosse pela disposição da sua mãe em relacionar-se com os vizinhos. Mal posso esperar para vê-la no Céu, admirar as estrelas da sua coroa e dar-lhe outro abraço.”
 Bonnie Hunt
+</c>

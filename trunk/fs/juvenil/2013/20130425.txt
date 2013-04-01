@@ -1,16 +1,11 @@
-VilÃµes do Encanto
-Quinta, 25 de abril
- 
-
-Deus livrarÃ¡ vocÃª de perigos escondidos. Salmo 91:3
-
-VocÃª jÃ¡ ouviu falar de um lugar encantador chamado Palau? Pode ser que nÃ£o. Trata-se de um amontoado de 250 ilhotas e atÃ³is que formam um paÃ­s de rara beleza no Oceano PacÃ­fico. LÃ¡, as Ã¡guas lÃ­mpidas salpicadas de peixes exÃ³ticos parecem feitas de tinta azulada. Cada ilha forma um desenhado artÃ­stico de areias brancas com coqueiros hipnotizantes. Essa pequena naÃ§Ã£o da MicronÃ©sia Ã© tÃ£o bela que acabou entrando para o seleto grupo das sete maravilhas submarinas do mundo. Sem dÃºvida, ir a Palau Ã© uma viagem inesquecÃ­vel.
-
-No entanto, o cenÃ¡rio desse paraÃ­so contrasta com dois tipos de habitantes assustadores: os tubarÃµes e os crocodilos. Ali estÃ¡ a maior reserva de preservaÃ§Ã£o natural de tubarÃµes do planeta â€“ uma Ã¡rea do tamanho da FranÃ§a, voltada Ã  proteÃ§Ã£o contra a caÃ§a predatÃ³ria. Naquele local, o melhor a se fazer Ã© jamais pÃ´r os pÃ©s na Ã¡gua.
-
-O outro animal Ã© ainda mais aterrorizante. Conhecido como crocodiloÂ­-de-Ã¡gua-salgada, Ã© o maior rÃ©ptil que existe em toda a Terra. Ultrapassa sete metros de extensÃ£o e pode pesar mais de uma tonelada. Sua mandÃ­bula musculosa Ã© capaz esmagar o crÃ¢nio de um boi com uma Ãºnica dentada. Sabendo disso, Ã© melhor ficar bem longe dessas belas ilhas, certo?
-
-Foi isso que o pecado fez com os sonhos perfeitos de Deus: instalou armadilhas nos lindos lugares da criaÃ§Ã£o divina. A beleza atraente de certos destinos estÃ¡ misturada com perigos ameaÃ§adores. Se uma ilha cinematogrÃ¡fica pode ser o habitat de um crocodilo monstruoso, serÃ¡ que nÃ£o existem outros lugares traiÃ§oeiros?
-
-Pensando nisso, o cristÃ£o deve manter distÃ¢ncia de lugares que podem parecer divertidos, mas trazem muitos perigos. Bares, estÃ¡dios de futebol, cinemas e casas noturnas sÃ£o lugares para serem evitados. Longe deles, sua vida espiritual estarÃ¡ muito mais segura.
-Vamos desfrutar este dia, cuidando com os lugares visitados? Perto de Jesus, seu passeio da vida serÃ¡ seguro e garantido.
+<d>Quinta, 25 de abril</d>
+<t>Vilões do Encanto</t>
+<v>Deus livrará você de perigos escondidos. Salmo 91:3</v>
+<c>
+Você já ouviu falar de um lugar encantador chamado Palau? Pode ser que não. Trata-se de um amontoado de 250 ilhotas e atóis que formam um país de rara beleza no Oceano Pacífico. Lá, as águas límpidas salpicadas de peixes exóticos parecem feitas de tinta azulada. Cada ilha forma um desenhado artístico de areias brancas com coqueiros hipnotizantes. Essa pequena nação da Micronésia é tão bela que acabou entrando para o seleto grupo das sete maravilhas submarinas do mundo. Sem dúvida, ir a Palau é uma viagem inesquecível.
+No entanto, o cenário desse paraíso contrasta com dois tipos de habitantes assustadores: os tubarões e os crocodilos. Ali está a maior reserva de preservação natural de tubarões do planeta – uma área do tamanho da França, voltada à proteção contra a caça predatória. Naquele local, o melhor a se fazer é jamais pôr os pés na água.
+O outro animal é ainda mais aterrorizante. Conhecido como crocodilo­-de-água-salgada, é o maior réptil que existe em toda a Terra. Ultrapassa sete metros de extensão e pode pesar mais de uma tonelada. Sua mandíbula musculosa é capaz esmagar o crânio de um boi com uma única dentada. Sabendo disso, é melhor ficar bem longe dessas belas ilhas, certo?
+Foi isso que o pecado fez com os sonhos perfeitos de Deus: instalou armadilhas nos lindos lugares da criação divina. A beleza atraente de certos destinos está misturada com perigos ameaçadores. Se uma ilha cinematográfica pode ser o habitat de um crocodilo monstruoso, será que não existem outros lugares traiçoeiros?
+Pensando nisso, o cristão deve manter distância de lugares que podem parecer divertidos, mas trazem muitos perigos. Bares, estádios de futebol, cinemas e casas noturnas são lugares para serem evitados. Longe deles, sua vida espiritual estará muito mais segura.
+Vamos desfrutar este dia, cuidando com os lugares visitados? Perto de Jesus, seu passeio da vida será seguro e garantido.
+</c>

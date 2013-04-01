@@ -1,18 +1,11 @@
-O Careca
-TerÃ§a, 9 de abril
- 
-
-Duas ursas saÃ­ram do mato e despedaÃ§aram quarenta e dois deles. 2 Reis 2:24
-
-Imagine escorregar numa prancha a uma altura de mais de 40 andares! A velocidade Ã© tanta que mistura desafio, coragem, medo e muita adrenalina. VocÃª grita, engole areia, levanta os braÃ§os e, finalmente, aterrissa estrondosamente num delicioso mergulho no oceano. Splash!
-
-AtÃ© anos atrÃ¡s, isso aconteceria no maior ponto turÃ­stico de Natal, no Rio Grande do Norte. O conhecidÃ­ssimo Morro do Careca Ã© uma deslumbrante montanha de areia clarinha ladeada de vegetaÃ§Ã£o nativa. Olhando de longe, parece que um imenso pedaÃ§o de plantas se derreteu, descendo atÃ© o mar e deixando uma enorme rampa de areia escorrendo naturalmente atÃ© as Ã¡guas mornas da famosa Praia da Ponta Negra. O visual Ã© maravilhoso, e os viajantes sempre param lÃ¡ para apreciar essa obra-prima da natureza.
-
-Pena que, hÃ¡ vÃ¡rios anos, a fim de preservar a duraÃ§Ã£o dessa duna original coroada de verde tropical, proibiu-se que os turistas escorregassem areia abaixo com pranchas de madeira. Hoje, ninguÃ©m pode subir lÃ¡. Mas sÃ³ o visual jÃ¡ vale o passeio.
-
-Sabia que o nome desse morro me lembra uma importante liÃ§Ã£o da BÃ­blia? Certa vez, um grupo de rapazes irreverentes resolveu zombar covardemente de um senhor mais velho. Completamente cruÃ©is e provocadores, eles gritavam ao profeta Eliseu: â€œSobe calvo! Se manda daÃ­, seu careca!â€ E continuaram essa terrÃ­vel zombaria por um bom tempo. Com essas palavras, eles queriam dizer que a histÃ³ria segundo a qual Elias havia subido ao cÃ©u em um redemoinho era puro delÃ­rio de Eliseu.
-
-O que eles nÃ£o imaginavam era que zombar de um servo de Deus Ã© como zombar do prÃ³prio Deus. A repreensÃ£o divina aconteceu inesperadamente. Duas ursas selvagens surgiram pelo caminho. O resultado foi trÃ¡gico.
-
-Esse relato Ã© um importante alerta para quem gosta de zombar das pessoas. Nunca entre nessa! Dar apelidos, irritar com maus adjetivos e xingar alguÃ©m sÃ£o atitudes inadmissÃ­veis para um juvenil cristÃ£o. Jamais ceda Ã  influencia do grupo quando o assunto for provocar o prÃ³ximo. Isso Ã© covardia pura e pode trazer trÃ¡gicas consequÃªncias.
- 
+<d>Terça, 9 de abril</d>
+<t>O Careca</t>
+<v>Duas ursas saíram do mato e despedaçaram quarenta e dois deles. 2 Reis 2:24</v>
+<c>
+Imagine escorregar numa prancha a uma altura de mais de 40 andares! A velocidade é tanta que mistura desafio, coragem, medo e muita adrenalina. Você grita, engole areia, levanta os braços e, finalmente, aterrissa estrondosamente num delicioso mergulho no oceano. Splash!
+Até anos atrás, isso aconteceria no maior ponto turístico de Natal, no Rio Grande do Norte. O conhecidíssimo Morro do Careca é uma deslumbrante montanha de areia clarinha ladeada de vegetação nativa. Olhando de longe, parece que um imenso pedaço de plantas se derreteu, descendo até o mar e deixando uma enorme rampa de areia escorrendo naturalmente até as águas mornas da famosa Praia da Ponta Negra. O visual é maravilhoso, e os viajantes sempre param lá para apreciar essa obra-prima da natureza.
+Pena que, há vários anos, a fim de preservar a duração dessa duna original coroada de verde tropical, proibiu-se que os turistas escorregassem areia abaixo com pranchas de madeira. Hoje, ninguém pode subir lá. Mas só o visual já vale o passeio.
+Sabia que o nome desse morro me lembra uma importante lição da Bíblia? Certa vez, um grupo de rapazes irreverentes resolveu zombar covardemente de um senhor mais velho. Completamente cruéis e provocadores, eles gritavam ao profeta Eliseu: “Sobe calvo! Se manda daí, seu careca!” E continuaram essa terrível zombaria por um bom tempo. Com essas palavras, eles queriam dizer que a história segundo a qual Elias havia subido ao céu em um redemoinho era puro delírio de Eliseu.
+O que eles não imaginavam era que zombar de um servo de Deus é como zombar do próprio Deus. A repreensão divina aconteceu inesperadamente. Duas ursas selvagens surgiram pelo caminho. O resultado foi trágico.
+Esse relato é um importante alerta para quem gosta de zombar das pessoas. Nunca entre nessa! Dar apelidos, irritar com maus adjetivos e xingar alguém são atitudes inadmissíveis para um juvenil cristão. Jamais ceda à influencia do grupo quando o assunto for provocar o próximo. Isso é covardia pura e pode trazer trágicas consequências.
+</c>

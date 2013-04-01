@@ -1,14 +1,10 @@
-Ecos do Titanic
-Segunda, 15 de abril
- 
-
-Mas, quando vier o que Ã© perfeito, entÃ£o o que Ã© imperfeito desaparecerÃ¡. 1 CorÃ­ntios 13:10
-
-NÃ£o posso acreditar! Escrevo esta mensagem para vocÃª a trÃªs meses de completar o centenÃ¡rio do naufrÃ¡gio que vimos ontem. Nesse mesmo dia, outro transatlÃ¢ntico, este com 4.200 pessoas, simplesmente virou nas Ã¡guas da ItÃ¡lia. Ainda estou atÃ´nito com a notÃ­cia. NÃ£o estamos falando de uma embarcaÃ§Ã£o antiga com caldeira de lenha, comunicaÃ§Ã£o via telÃ©grafo, ou botes salva-vidas de madeira. NÃ£o! Estamos em pleno sÃ©culo 21, com navegaÃ§Ã£o via satÃ©lite, sonares ultramodernos, sistemas de monitoraÃ§Ã£o marÃ­tima, rastreamento de relevo submarino e toda a tecnologia a serviÃ§o de qualquer imprevisto oceÃ¢nico.
-
-Apesar de todos os equipamentos e de toda a seguranÃ§a, ainda estamos longe da perfeiÃ§Ã£o! O cruzeiro Costa ConcÃ³rdia, a menos de 200 metros da costa italiana, chocou-se contra rochas rasas e submergiu de lado. As pessoas que estavam em pleno jantar de gala, de repente, viram as luzes se apagarem e ouviram um forte estrondo, chacoalhando a estrutura. Houve pÃ¢nico para saÃ­rem do navio. Os tripulantes nÃ£o sabiam o que fazer. Os planos de evacuaÃ§Ã£o nÃ£o funcionaram. Alguns pularam nas Ã¡guas geladas do inverno para nadar sozinhos atÃ© a praia. Isso nÃ£o Ã© um absurdo?
-
-NÃ£o adianta! Um sÃ©culo depois do Titanic, o que o ser humano aperfeiÃ§oa ainda nÃ£o se torna perfeito! A verdade Ã© que nunca estaremos em completa seguranÃ§a e tranquilidade do lado de cÃ¡ do Universo. O Titanic ensinou uma liÃ§Ã£o que o ser humano precisa aprender: somos imperfeitos e vivemos em uma realidade imperfeita. SÃ³ com Jesus, lÃ¡ no CÃ©u, voltaremos Ã  perfeiÃ§Ã£o tÃ£o sonhada.
-Por isso, nÃ£o se iluda. O ser humano nunca darÃ¡ conta de nada sozinho. Somos falhos e carentes do Criador. SÃ³ com Deus seremos um dia o que deverÃ­amos ter sido desde o Ã‰den: perfeitos e eternos.
-
-Que tal depender 100% da perfeiÃ§Ã£o de Cristo? Navegue sem medo.
+<d>Segunda, 15 de abril</d>
+<t>Ecos do Titanic</t>
+<v>Mas, quando vier o que é perfeito, então o que é imperfeito desaparecerá. 1 Coríntios 13:10</v>
+<c>
+Não posso acreditar! Escrevo esta mensagem para você a três meses de completar o centenário do naufrágio que vimos ontem. Nesse mesmo dia, outro transatlântico, este com 4.200 pessoas, simplesmente virou nas águas da Itália. Ainda estou atônito com a notícia. Não estamos falando de uma embarcação antiga com caldeira de lenha, comunicação via telégrafo, ou botes salva-vidas de madeira. Não! Estamos em pleno século 21, com navegação via satélite, sonares ultramodernos, sistemas de monitoração marítima, rastreamento de relevo submarino e toda a tecnologia a serviço de qualquer imprevisto oceânico.
+Apesar de todos os equipamentos e de toda a segurança, ainda estamos longe da perfeição! O cruzeiro Costa Concórdia, a menos de 200 metros da costa italiana, chocou-se contra rochas rasas e submergiu de lado. As pessoas que estavam em pleno jantar de gala, de repente, viram as luzes se apagarem e ouviram um forte estrondo, chacoalhando a estrutura. Houve pânico para saírem do navio. Os tripulantes não sabiam o que fazer. Os planos de evacuação não funcionaram. Alguns pularam nas águas geladas do inverno para nadar sozinhos até a praia. Isso não é um absurdo?
+Não adianta! Um século depois do Titanic, o que o ser humano aperfeiçoa ainda não se torna perfeito! A verdade é que nunca estaremos em completa segurança e tranquilidade do lado de cá do Universo. O Titanic ensinou uma lição que o ser humano precisa aprender: somos imperfeitos e vivemos em uma realidade imperfeita. Só com Jesus, lá no Céu, voltaremos à perfeição tão sonhada.
+Por isso, não se iluda. O ser humano nunca dará conta de nada sozinho. Somos falhos e carentes do Criador. Só com Deus seremos um dia o que deveríamos ter sido desde o Éden: perfeitos e eternos.
+Que tal depender 100% da perfeição de Cristo? Navegue sem medo.
+</c>

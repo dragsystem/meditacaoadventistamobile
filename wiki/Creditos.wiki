@@ -2,10 +2,4 @@
 
 = Créditos =
 
-*_Coordenador_*
-
-Miguel Sabino
-
-*_Desenvolvedor_*
-
 Eduardo Fonseca Velasques
